@@ -13491,3 +13491,643 @@
 [2019-08-03 20:11:05] [Info] Connect stats.windscribe.com:443
 [2019-08-03 20:11:05] [Info] Connect www.paypal.com:443
 [2019-08-03 20:11:05] [Info] Connect m.stripe.network:443
+[2019-08-04 07:49:02] ShadowsocksR started on port 1080
+[2019-08-04 07:49:05] [Info] Connect www.google.com:443
+[2019-08-04 07:49:05] [Info] Connect www.google.com:443
+[2019-08-04 07:49:06] [Info] Connect www.google.com:443
+[2019-08-04 07:49:06] [Info] Connect www.google.com:443
+[2019-08-04 07:49:07] [Info] Connect www.google.com:443
+[2019-08-04 07:49:07] [Info] Connect www.google.com:443
+[2019-08-04 07:49:07] [Info] Connect www.google.com:443
+[2019-08-04 07:49:08] [Info] Connect www.google.com:443
+[2019-08-04 07:49:08] [Info] Connect www.google.com:443
+[2019-08-04 07:49:11] [Info] Connect www.google.com:443
+[2019-08-04 07:49:12] [Info] Connect raw.githubusercontent.com:443
+[2019-08-04 07:49:13] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 07:49:13] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 07:49:13] [Info] Connect www.google.com:443
+[2019-08-04 07:49:13] [Info] Connect apis.google.com:443
+[2019-08-04 07:49:14] [Info] Connect ogs.google.com:443
+[2019-08-04 07:49:14] [Error] connect to update server error
+[2019-08-04 07:49:15] [Info] Connect www.google.com:443
+[2019-08-04 07:49:16] [Info] Disconnect www.google.com:443
+[2019-08-04 07:49:16] [Info] Disconnect www.google.com:443
+[2019-08-04 07:49:16] [Info] Disconnect www.google.com:443
+[2019-08-04 07:49:16] [Info] Disconnect www.google.com:443
+[2019-08-04 07:49:16] [Info] Disconnect www.google.com:443
+[2019-08-04 07:49:16] [Info] Disconnect www.google.com:443
+[2019-08-04 07:49:16] [Info] Disconnect apis.google.com:443
+[2019-08-04 07:49:16] [Info] Disconnect ogs.google.com:443
+[2019-08-04 07:49:17] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-04 07:49:17] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-04 07:49:17] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-04 07:49:17] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-04 07:49:17] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:49:18] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-04 07:49:18] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-04 07:49:18] [Info] Connect www.google.com:443
+[2019-08-04 07:49:18] [Info] Direct connect adservice.google.com:443
+[2019-08-04 07:49:19] [Info] Connect www.google.com:443
+[2019-08-04 07:49:19] [Info] Connect www.google.com:443
+[2019-08-04 07:49:21] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 07:49:21] [Info] Connect apis.google.com:443
+[2019-08-04 07:49:21] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 07:49:21] [Info] Disconnect www.google.com:443
+[2019-08-04 07:49:21] [Info] Connect clients2.google.com:443
+[2019-08-04 07:49:22] [Info] Direct connect update.googleapis.com:443
+[2019-08-04 07:49:22] [Info] Connect id.google.com:443
+[2019-08-04 07:49:23] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:49:23] [Info] Direct connect r17---sn-2x3een7d.gvt1.com:80
+[2019-08-04 07:49:23] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:49:24] [Info] Direct connect r5---sn-2x3eln7d.gvt1.com:80
+[2019-08-04 07:49:24] [Info] Disconnect www.google.com:443
+[2019-08-04 07:49:24] [Info] Connect clients1.google.com:443
+[2019-08-04 07:49:26] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-04 07:49:26] [Info] Disconnect www.google.com:443
+[2019-08-04 07:49:26] [Info] Disconnect apis.google.com:443
+[2019-08-04 07:49:26] [Info] Disconnect clients1.google.com:443
+[2019-08-04 07:49:26] [Info] Disconnect clients2.google.com:443
+[2019-08-04 07:49:26] [Info] Disconnect id.google.com:443
+[2019-08-04 07:49:26] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-04 07:49:26] [Info] Disconnect www.google.com:443
+[2019-08-04 07:49:27] [Info] Connect www.googleapis.com:443
+[2019-08-04 07:49:29] [Info] Connect www.google.com:443
+[2019-08-04 07:49:34] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:49:34] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:49:36] [Info] Connect www.google.com:443
+[2019-08-04 07:49:36] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:49:36] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:49:36] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:49:36] [Info] Disconnect www.google.com:443
+[2019-08-04 07:49:36] [Info] Disconnect www.googleapis.com:443
+[2019-08-04 07:49:36] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:49:37] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:49:37] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:49:37] [Info] Connect quantcast.mgr.consensu.org:443
+[2019-08-04 07:49:37] [Info] Connect cdns.eu1.gigya.com:443
+[2019-08-04 07:49:37] [Info] Direct connect adservice.google.com:443
+[2019-08-04 07:49:37] [Info] Connect connect.facebook.net:443
+[2019-08-04 07:49:37] [Info] Direct connect www.google-analytics.com:443
+[2019-08-04 07:49:37] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-08-04 07:49:38] [Info] Connect c.t.dps-reach.com:443
+[2019-08-04 07:49:38] [Info] Connect p.t.dps-reach.com:443
+[2019-08-04 07:49:38] [Info] Connect x.ss2.us:80
+[2019-08-04 07:49:39] [Info] Disconnect x.ss2.us:80
+[2019-08-04 07:49:39] [Info] Connect accounts.eu1.gigya.com:443
+[2019-08-04 07:49:40] [Info] Connect static.quantcast.mgr.consensu.org:443
+[2019-08-04 07:49:40] [Info] Connect www.facebook.com:443
+[2019-08-04 07:49:40] [Info] Connect www.facebook.com:443
+[2019-08-04 07:49:41] [Info] Connect clients1.google.com:443
+[2019-08-04 07:49:42] [Info] Connect audit.quantcast.mgr.consensu.org:443
+[2019-08-04 07:49:42] [Info] Connect privacy-api-gateway.quantcast.com:443
+[2019-08-04 07:49:44] [Info] Connect gscounters.eu1.gigya.com:443
+[2019-08-04 07:49:45] [Info] Disconnect accounts.eu1.gigya.com:443
+[2019-08-04 07:49:46] [Info] Disconnect c.t.dps-reach.com:443
+[2019-08-04 07:49:46] [Info] Disconnect cdns.eu1.gigya.com:443
+[2019-08-04 07:49:46] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:49:46] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:49:46] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:49:46] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:49:46] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:49:46] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:49:46] [Info] Disconnect gscounters.eu1.gigya.com:443
+[2019-08-04 07:49:46] [Info] Disconnect www.google.com:443
+[2019-08-04 07:49:46] [Info] Disconnect p.t.dps-reach.com:443
+[2019-08-04 07:49:46] [Info] Disconnect www.facebook.com:443
+[2019-08-04 07:49:46] [Info] Disconnect audit.quantcast.mgr.consensu.org:443
+[2019-08-04 07:49:46] [Info] Disconnect static.quantcast.mgr.consensu.org:443
+[2019-08-04 07:49:46] [Info] Disconnect privacy-api-gateway.quantcast.com:443
+[2019-08-04 07:49:46] [Info] Disconnect clients1.google.com:443
+[2019-08-04 07:49:46] [Info] Disconnect quantcast.mgr.consensu.org:443
+[2019-08-04 07:49:46] [Info] Disconnect www.facebook.com:443
+[2019-08-04 07:49:46] [Info] Disconnect connect.facebook.net:443
+[2019-08-04 07:49:47] [Info] Connect audit.quantcast.mgr.consensu.org:443
+[2019-08-04 07:49:47] [Info] Connect www.facebook.com:443
+[2019-08-04 07:49:48] [Info] Connect fastlane.rubiconproject.com:443
+[2019-08-04 07:49:48] [Info] Connect fastlane.rubiconproject.com:443
+[2019-08-04 07:49:48] [Info] Connect fastlane.rubiconproject.com:443
+[2019-08-04 07:49:48] [Info] Connect fastlane.rubiconproject.com:443
+[2019-08-04 07:49:48] [Info] Connect ib.adnxs.com:443
+[2019-08-04 07:49:48] [Info] Connect ap.lijit.com:443
+[2019-08-04 07:49:48] [Info] Connect bidder.criteo.com:443
+[2019-08-04 07:49:48] [Info] Connect idm-d.openx.net:443
+[2019-08-04 07:49:48] [Info] Connect audit.quantcast.mgr.consensu.org:443
+[2019-08-04 07:49:48] [Info] Connect as-sec.casalemedia.com:443
+[2019-08-04 07:49:48] [Info] Connect audit.quantcast.mgr.consensu.org:443
+[2019-08-04 07:49:48] [Info] Connect audit.quantcast.mgr.consensu.org:443
+[2019-08-04 07:49:48] [Info] Connect audit.quantcast.mgr.consensu.org:443
+[2019-08-04 07:49:49] [Info] Connect adserver.adtech.de:443
+[2019-08-04 07:49:49] [Info] Connect adserver.adtech.de:443
+[2019-08-04 07:49:49] [Info] Connect adserver.adtech.de:443
+[2019-08-04 07:49:49] [Info] Connect adserver.adtech.de:443
+[2019-08-04 07:49:49] [Info] Direct connect securepubads.g.doubleclick.net:443
+[2019-08-04 07:49:49] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-08-04 07:49:49] [Info] Connect static.criteo.net:443
+[2019-08-04 07:49:50] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:49:50] [Info] Direct connect r1---sn-2x3een7e.gvt1.com:80
+[2019-08-04 07:49:50] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:49:50] [Info] Direct connect r1---sn-2x3een7e.gvt1.com:80
+[2019-08-04 07:49:52] [Info] Connect u.openx.net:443
+[2019-08-04 07:49:53] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:49:53] [Info] Direct connect r1---sn-2x3een7e.gvt1.com:80
+[2019-08-04 07:49:53] [Info] Direct connect cm.g.doubleclick.net:443
+[2019-08-04 07:49:54] [Info] Connect us-u.openx.net:443
+[2019-08-04 07:49:55] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:49:55] [Info] Direct connect r1---sn-2x3een7e.gvt1.com:80
+[2019-08-04 07:49:56] [Info] Disconnect adserver.adtech.de:443
+[2019-08-04 07:49:56] [Info] Disconnect adserver.adtech.de:443
+[2019-08-04 07:49:56] [Info] Disconnect adserver.adtech.de:443
+[2019-08-04 07:49:56] [Info] Disconnect adserver.adtech.de:443
+[2019-08-04 07:49:56] [Info] Disconnect ap.lijit.com:443
+[2019-08-04 07:49:56] [Info] Disconnect as-sec.casalemedia.com:443
+[2019-08-04 07:49:56] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-08-04 07:49:56] [Info] Disconnect bidder.criteo.com:443
+[2019-08-04 07:49:56] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-08-04 07:49:56] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-08-04 07:49:56] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-08-04 07:49:56] [Info] Disconnect idm-d.openx.net:443
+[2019-08-04 07:49:56] [Info] Disconnect audit.quantcast.mgr.consensu.org:443
+[2019-08-04 07:49:56] [Info] Disconnect audit.quantcast.mgr.consensu.org:443
+[2019-08-04 07:49:56] [Info] Disconnect ib.adnxs.com:443
+[2019-08-04 07:49:56] [Info] Disconnect static.criteo.net:443
+[2019-08-04 07:49:56] [Info] Disconnect audit.quantcast.mgr.consensu.org:443
+[2019-08-04 07:49:56] [Info] Disconnect audit.quantcast.mgr.consensu.org:443
+[2019-08-04 07:49:56] [Info] Disconnect us-u.openx.net:443
+[2019-08-04 07:49:56] [Info] Disconnect audit.quantcast.mgr.consensu.org:443
+[2019-08-04 07:49:56] [Info] Disconnect www.facebook.com:443
+[2019-08-04 07:49:56] [Info] Disconnect u.openx.net:443
+[2019-08-04 07:49:58] [Info] Direct connect update.googleapis.com:443
+[2019-08-04 07:50:07] [Info] Connect www.facebook.com:443
+[2019-08-04 07:50:07] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:50:07] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:50:07] [Info] Direct connect www.google-analytics.com:443
+[2019-08-04 07:50:07] [Info] Direct connect adservice.google.com:443
+[2019-08-04 07:50:07] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-08-04 07:50:07] [Info] Connect cdns.eu1.gigya.com:443
+[2019-08-04 07:50:07] [Info] Connect c.t.dps-reach.com:443
+[2019-08-04 07:50:07] [Info] Connect connect.facebook.net:443
+[2019-08-04 07:50:07] [Info] Connect p.t.dps-reach.com:443
+[2019-08-04 07:50:07] [Info] Connect quantcast.mgr.consensu.org:443
+[2019-08-04 07:50:07] [Info] Connect static.quantcast.mgr.consensu.org:443
+[2019-08-04 07:50:07] [Info] Direct connect securepubads.g.doubleclick.net:443
+[2019-08-04 07:50:07] [Info] Direct connect www.googletagservices.com:443
+[2019-08-04 07:50:09] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:50:09] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:50:09] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:50:09] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:50:09] [Info] Connect fastlane.rubiconproject.com:443
+[2019-08-04 07:50:09] [Info] Connect fastlane.rubiconproject.com:443
+[2019-08-04 07:50:09] [Info] Connect ib.adnxs.com:443
+[2019-08-04 07:50:09] [Info] Connect ap.lijit.com:443
+[2019-08-04 07:50:09] [Info] Connect as-sec.casalemedia.com:443
+[2019-08-04 07:50:09] [Info] Connect idm-d.openx.net:443
+[2019-08-04 07:50:09] [Info] Connect adserver.adtech.de:443
+[2019-08-04 07:50:09] [Info] Connect adserver.adtech.de:443
+[2019-08-04 07:50:09] [Info] Connect adserver.adtech.de:443
+[2019-08-04 07:50:09] [Info] Connect bidder.criteo.com:443
+[2019-08-04 07:50:10] [Info] Disconnect ib.adnxs.com:443
+[2019-08-04 07:50:10] [Info] Disconnect as-sec.casalemedia.com:443
+[2019-08-04 07:50:10] [Info] Disconnect ap.lijit.com:443
+[2019-08-04 07:50:11] [Info] Connect clients1.google.com:443
+[2019-08-04 07:50:12] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-08-04 07:50:13] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-08-04 07:50:13] [Info] Direct connect pagead2.googlesyndication.com:443
+[2019-08-04 07:50:13] [Info] Direct connect googleads4.g.doubleclick.net:443
+[2019-08-04 07:50:13] [Info] Direct connect s0.2mdn.net:443
+[2019-08-04 07:50:14] [Info] Connect u.openx.net:443
+[2019-08-04 07:50:14] [Info] Direct connect cm.g.doubleclick.net:443
+[2019-08-04 07:50:14] [Info] Connect ads.yahoo.com:443
+[2019-08-04 07:50:14] [Info] Direct connect static.googleadsserving.cn:443
+[2019-08-04 07:50:14] [Info] Disconnect adserver.adtech.de:443
+[2019-08-04 07:50:14] [Info] Disconnect adserver.adtech.de:443
+[2019-08-04 07:50:14] [Info] Disconnect bidder.criteo.com:443
+[2019-08-04 07:50:14] [Info] Connect ib.adnxs.com:443
+[2019-08-04 07:50:14] [Info] Connect p.rfihub.com:443
+[2019-08-04 07:50:14] [Info] Disconnect c.t.dps-reach.com:443
+[2019-08-04 07:50:14] [Info] Disconnect cdns.eu1.gigya.com:443
+[2019-08-04 07:50:14] [Info] Disconnect connect.facebook.net:443
+[2019-08-04 07:50:14] [Info] Connect ipac.ctnsnet.com:443
+[2019-08-04 07:50:14] [Info] Direct connect s0.2mdn.net:443
+[2019-08-04 07:50:14] [Info] Direct connect ad.doubleclick.net:443
+[2019-08-04 07:50:14] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-08-04 07:50:14] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-08-04 07:50:14] [Info] Connect ap-sonar.sociomantic.com:443
+[2019-08-04 07:50:14] [Info] Disconnect p.t.dps-reach.com:443
+[2019-08-04 07:50:14] [Info] Connect cs.nex8.net:443
+[2019-08-04 07:50:14] [Info] Connect c1.adform.net:443
+[2019-08-04 07:50:14] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:50:15] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:50:15] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:50:15] [Info] Connect tg.socdm.com:443
+[2019-08-04 07:50:15] [Info] Connect google2waycm.netmng.com:443
+[2019-08-04 07:50:15] [Info] Direct connect match.adsrvr.org:443
+[2019-08-04 07:50:15] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:50:15] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:50:15] [Info] Disconnect ads.yahoo.com:443
+[2019-08-04 07:50:15] [Info] Connect sync.mathtag.com:443
+[2019-08-04 07:50:15] [Info] Connect code.createjs.com:443
+[2019-08-04 07:50:15] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:50:15] [Info] Disconnect ib.adnxs.com:443
+[2019-08-04 07:50:16] [Info] Disconnect p.rfihub.com:443
+[2019-08-04 07:50:16] [Info] Disconnect quantcast.mgr.consensu.org:443
+[2019-08-04 07:50:16] [Info] Disconnect static.quantcast.mgr.consensu.org:443
+[2019-08-04 07:50:16] [Info] Disconnect ipac.ctnsnet.com:443
+[2019-08-04 07:50:16] [Info] Disconnect u.openx.net:443
+[2019-08-04 07:50:16] [Info] Disconnect adserver.adtech.de:443
+[2019-08-04 07:50:16] [Info] Disconnect idm-d.openx.net:443
+[2019-08-04 07:50:16] [Info] Disconnect clients1.google.com:443
+[2019-08-04 07:50:16] [Info] Disconnect www.facebook.com:443
+[2019-08-04 07:50:16] [Info] Connect sync-tm.everesttech.net:443
+[2019-08-04 07:50:16] [Info] Connect ssum-sec.casalemedia.com:443
+[2019-08-04 07:50:16] [Info] Connect tg.socdm.com:443
+[2019-08-04 07:50:17] [Info] Connect gscounters.eu1.gigya.com:443
+[2019-08-04 07:50:17] [Info] Direct connect s0.2mdn.net:443
+[2019-08-04 07:50:18] [Info] Connect www.facebook.com:443
+[2019-08-04 07:50:18] [Info] Direct connect securepubads.g.doubleclick.net:443
+[2019-08-04 07:50:18] [Info] Direct connect pagead2.googlesyndication.com:443
+[2019-08-04 07:50:19] [Info] Direct connect csi.gstatic.com:443
+[2019-08-04 07:50:20] [Info] Connect ssp.adriver.ru:443
+[2019-08-04 07:50:21] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:50:22] [Info] Disconnect gscounters.eu1.gigya.com:443
+[2019-08-04 07:50:23] [Info] Direct connect www.google-analytics.com:443
+[2019-08-04 07:50:23] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:50:23] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-08-04 07:50:23] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:50:23] [Info] Connect cdns.eu1.gigya.com:443
+[2019-08-04 07:50:23] [Info] Connect connect.facebook.net:443
+[2019-08-04 07:50:23] [Info] Connect c.t.dps-reach.com:443
+[2019-08-04 07:50:23] [Info] Connect quantcast.mgr.consensu.org:443
+[2019-08-04 07:50:23] [Info] Connect p.t.dps-reach.com:443
+[2019-08-04 07:50:23] [Info] Connect static.quantcast.mgr.consensu.org:443
+[2019-08-04 07:50:23] [Info] Direct connect adservice.google.com:443
+[2019-08-04 07:50:23] [Info] Direct connect www.googletagservices.com:443
+[2019-08-04 07:50:24] [Info] Direct connect ade.googlesyndication.com:443
+[2019-08-04 07:50:24] [Info] Direct connect ade.googlesyndication.com:443
+[2019-08-04 07:50:25] [Info] Direct connect adservice.google.com:443
+[2019-08-04 07:50:25] [Info] Connect fastlane.rubiconproject.com:443
+[2019-08-04 07:50:25] [Info] Connect fastlane.rubiconproject.com:443
+[2019-08-04 07:50:25] [Info] Connect ib.adnxs.com:443
+[2019-08-04 07:50:25] [Info] Connect as-sec.casalemedia.com:443
+[2019-08-04 07:50:25] [Info] Disconnect c.t.dps-reach.com:443
+[2019-08-04 07:50:25] [Info] Connect idm-d.openx.net:443
+[2019-08-04 07:50:25] [Info] Disconnect cdns.eu1.gigya.com:443
+[2019-08-04 07:50:25] [Info] Disconnect cs.nex8.net:443
+[2019-08-04 07:50:25] [Info] Disconnect connect.facebook.net:443
+[2019-08-04 07:50:25] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:50:25] [Info] Connect ap.lijit.com:443
+[2019-08-04 07:50:25] [Info] Connect adserver.adtech.de:443
+[2019-08-04 07:50:25] [Info] Connect bidder.criteo.com:443
+[2019-08-04 07:50:25] [Info] Connect p.t.dps-reach.com:443
+[2019-08-04 07:50:25] [Info] Connect c.t.dps-reach.com:443
+[2019-08-04 07:50:25] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:50:25] [Info] Disconnect google2waycm.netmng.com:443
+[2019-08-04 07:50:25] [Info] Connect adserver.adtech.de:443
+[2019-08-04 07:50:25] [Info] Connect adserver.adtech.de:443
+[2019-08-04 07:50:25] [Info] Disconnect p.t.dps-reach.com:443
+[2019-08-04 07:50:25] [Info] Disconnect quantcast.mgr.consensu.org:443
+[2019-08-04 07:50:25] [Info] Disconnect ssp.adriver.ru:443
+[2019-08-04 07:50:25] [Info] Disconnect ssum-sec.casalemedia.com:443
+[2019-08-04 07:50:25] [Info] Disconnect static.quantcast.mgr.consensu.org:443
+[2019-08-04 07:50:26] [Info] Disconnect sync.mathtag.com:443
+[2019-08-04 07:50:26] [Info] Disconnect tg.socdm.com:443
+[2019-08-04 07:50:26] [Info] Disconnect tg.socdm.com:443
+[2019-08-04 07:50:26] [Info] Disconnect sync-tm.everesttech.net:443
+[2019-08-04 07:50:26] [Info] Direct connect securepubads.g.doubleclick.net:443
+[2019-08-04 07:50:26] [Info] Disconnect code.createjs.com:443
+[2019-08-04 07:50:26] [Info] Disconnect c1.adform.net:443
+[2019-08-04 07:50:26] [Info] Disconnect ap-sonar.sociomantic.com:443
+[2019-08-04 07:50:26] [Info] Disconnect ib.adnxs.com:443
+[2019-08-04 07:50:26] [Info] Disconnect as-sec.casalemedia.com:443
+[2019-08-04 07:50:26] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-08-04 07:50:27] [Info] Direct connect pagead2.googlesyndication.com:443
+[2019-08-04 07:50:27] [Info] Connect clients4.google.com:443
+[2019-08-04 07:50:27] [Info] Direct connect ad.doubleclick.net:443
+[2019-08-04 07:50:27] [Info] Connect p.rfihub.com:443
+[2019-08-04 07:50:27] [Info] Connect sync-tm.everesttech.net:443
+[2019-08-04 07:50:27] [Info] Connect c1.adform.net:443
+[2019-08-04 07:50:27] [Info] Direct connect cm.g.doubleclick.net:443
+[2019-08-04 07:50:27] [Info] Connect cr-p1.ladsp.com:443
+[2019-08-04 07:50:27] [Info] Connect cs.r-ad.ne.jp:443
+[2019-08-04 07:50:27] [Info] Connect ds.uncn.jp:443
+[2019-08-04 07:50:27] [Info] Connect sync.mathtag.com:443
+[2019-08-04 07:50:27] [Info] Connect p.rfihub.com:443
+[2019-08-04 07:50:27] [Info] Connect ipac.ctnsnet.com:443
+[2019-08-04 07:50:27] [Info] Connect ssp.adriver.ru:443
+[2019-08-04 07:50:27] [Info] Connect x.bidswitch.net:443
+[2019-08-04 07:50:27] [Info] Connect ads.yieldmo.com:443
+[2019-08-04 07:50:27] [Info] Direct connect s0.2mdn.net:443
+[2019-08-04 07:50:27] [Info] Direct connect googleads4.g.doubleclick.net:443
+[2019-08-04 07:50:27] [Info] Connect sync-tm.everesttech.net:443
+[2019-08-04 07:50:27] [Info] Disconnect adserver.adtech.de:443
+[2019-08-04 07:50:27] [Info] Disconnect adserver.adtech.de:443
+[2019-08-04 07:50:29] [Info] Connect u.openx.net:443
+[2019-08-04 07:50:29] [Info] Disconnect adserver.adtech.de:443
+[2019-08-04 07:50:30] [Info] Connect gscounters.eu1.gigya.com:443
+[2019-08-04 07:50:30] [Info] Disconnect ap.lijit.com:443
+[2019-08-04 07:50:31] [Info] Connect eu-u.openx.net:443
+[2019-08-04 07:50:31] [Info] Disconnect bidder.criteo.com:443
+[2019-08-04 07:50:35] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:50:35] [Info] Direct connect r7---sn-2x3een7r.gvt1.com:80
+[2019-08-04 07:50:35] [Info] Disconnect gscounters.eu1.gigya.com:443
+[2019-08-04 07:50:36] [Info] Disconnect c.t.dps-reach.com:443
+[2019-08-04 07:50:36] [Info] Disconnect cs.r-ad.ne.jp:443
+[2019-08-04 07:50:36] [Info] Disconnect ds.uncn.jp:443
+[2019-08-04 07:50:36] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-08-04 07:50:36] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-08-04 07:50:36] [Info] Disconnect idm-d.openx.net:443
+[2019-08-04 07:50:36] [Info] Disconnect p.rfihub.com:443
+[2019-08-04 07:50:36] [Info] Disconnect p.rfihub.com:443
+[2019-08-04 07:50:36] [Info] Disconnect p.t.dps-reach.com:443
+[2019-08-04 07:50:36] [Info] Disconnect sync-tm.everesttech.net:443
+[2019-08-04 07:50:36] [Info] Disconnect ssp.adriver.ru:443
+[2019-08-04 07:50:36] [Info] Disconnect sync.mathtag.com:443
+[2019-08-04 07:50:36] [Info] Disconnect eu-u.openx.net:443
+[2019-08-04 07:50:36] [Info] Disconnect sync-tm.everesttech.net:443
+[2019-08-04 07:50:36] [Info] Disconnect clients4.google.com:443
+[2019-08-04 07:50:36] [Info] Disconnect x.bidswitch.net:443
+[2019-08-04 07:50:36] [Info] Disconnect ipac.ctnsnet.com:443
+[2019-08-04 07:50:36] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 101.227.212.107:443
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-08-04 07:50:36] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:50:36] [Info] Disconnect www.facebook.com:443
+[2019-08-04 07:50:36] [Info] Disconnect cr-p1.ladsp.com:443
+[2019-08-04 07:50:36] [Info] Disconnect c1.adform.net:443
+[2019-08-04 07:50:36] [Info] Disconnect u.openx.net:443
+[2019-08-04 07:50:36] [Info] Disconnect ads.yieldmo.com:443
+[2019-08-04 07:50:36] [Info] Direct connect r7---sn-2x3een7r.gvt1.com:80
+[2019-08-04 07:50:38] [Info] Direct connect ade.googlesyndication.com:443
+[2019-08-04 07:50:39] [Info] Direct connect update.googleapis.com:443
+[2019-08-04 07:50:47] [Info] Connect www.facebook.com:443
+[2019-08-04 07:50:47] [Info] Direct connect www.google-analytics.com:443
+[2019-08-04 07:50:47] [Info] Direct connect www.googletagservices.com:443
+[2019-08-04 07:50:47] [Info] Direct connect securepubads.g.doubleclick.net:443
+[2019-08-04 07:50:47] [Info] Direct connect adservice.google.com:443
+[2019-08-04 07:50:47] [Info] Connect static.criteo.net:443
+[2019-08-04 07:50:47] [Info] Connect c.t.dps-reach.com:443
+[2019-08-04 07:50:47] [Info] Connect quantcast.mgr.consensu.org:443
+[2019-08-04 07:50:47] [Info] Connect p.t.dps-reach.com:443
+[2019-08-04 07:50:47] [Info] Connect cdns.eu1.gigya.com:443
+[2019-08-04 07:50:47] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:50:47] [Info] Connect dictionary.cambridge.org:443
+[2019-08-04 07:50:47] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-08-04 07:50:47] [Info] Connect connect.facebook.net:443
+[2019-08-04 07:50:48] [Info] Direct connect ade.googlesyndication.com:443
+[2019-08-04 07:50:48] [Info] Direct connect pagead2.googlesyndication.com:443
+[2019-08-04 07:50:49] [Info] Connect fastlane.rubiconproject.com:443
+[2019-08-04 07:50:49] [Info] Connect fastlane.rubiconproject.com:443
+[2019-08-04 07:50:49] [Info] Connect as-sec.casalemedia.com:443
+[2019-08-04 07:50:49] [Info] Connect ib.adnxs.com:443
+[2019-08-04 07:50:49] [Info] Connect accounts.google.com:443
+[2019-08-04 07:50:49] [Info] Connect idm-d.openx.net:443
+[2019-08-04 07:50:49] [Info] Connect ap.lijit.com:443
+[2019-08-04 07:50:49] [Info] Connect adserver.adtech.de:443
+[2019-08-04 07:50:49] [Info] Connect bidder.criteo.com:443
+[2019-08-04 07:50:49] [Info] Connect adserver.adtech.de:443
+[2019-08-04 07:50:49] [Info] Connect adserver.adtech.de:443
+[2019-08-04 07:50:50] [Info] Disconnect ib.adnxs.com:443
+[2019-08-04 07:50:50] [Info] Disconnect as-sec.casalemedia.com:443
+[2019-08-04 07:50:50] [Info] Disconnect ap.lijit.com:443
+[2019-08-04 07:50:54] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-04 07:50:56] [Info] Disconnect adserver.adtech.de:443
+[2019-08-04 07:50:56] [Info] Disconnect adserver.adtech.de:443
+[2019-08-04 07:50:56] [Info] Disconnect c.t.dps-reach.com:443
+[2019-08-04 07:50:56] [Info] Disconnect bidder.criteo.com:443
+[2019-08-04 07:50:56] [Info] Disconnect cdns.eu1.gigya.com:443
+[2019-08-04 07:50:56] [Info] Disconnect connect.facebook.net:443
+[2019-08-04 07:50:56] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:50:56] [Info] Disconnect p.t.dps-reach.com:443
+[2019-08-04 07:50:56] [Info] Disconnect dictionary.cambridge.org:443
+[2019-08-04 07:50:56] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-08-04 07:50:56] [Info] Disconnect quantcast.mgr.consensu.org:443
+[2019-08-04 07:50:56] [Info] Disconnect fastlane.rubiconproject.com:443
+[2019-08-04 07:50:56] [Info] Disconnect static.criteo.net:443
+[2019-08-04 07:50:56] [Info] Disconnect www.facebook.com:443
+[2019-08-04 07:50:56] [Info] Disconnect adserver.adtech.de:443
+[2019-08-04 07:50:56] [Info] Disconnect idm-d.openx.net:443
+[2019-08-04 07:50:56] [Info] Disconnect accounts.google.com:443
+[2019-08-04 07:51:07] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:07] [Info] Direct connect cdn.bootcss.com:443
+[2019-08-04 07:51:08] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:08] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:08] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:10] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:11] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:13] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:13] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:13] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:13] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:13] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:13] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:16] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:19] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:19] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:19] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:21] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:51:21] [Info] Direct connect r14---sn-2x3een7d.gvt1.com:80
+[2019-08-04 07:51:22] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:22] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:51:22] [Info] Direct connect r14---sn-2x3een7d.gvt1.com:80
+[2019-08-04 07:51:22] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:24] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:51:25] [Info] Direct connect update.googleapis.com:443
+[2019-08-04 07:51:40] [Info] Connect www.google.com:443
+[2019-08-04 07:51:40] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 07:51:40] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 07:51:40] [Info] Connect id.google.com:443
+[2019-08-04 07:51:40] [Info] Connect apis.google.com:443
+[2019-08-04 07:51:44] [Info] Connect ogs.google.com:443
+[2019-08-04 07:51:44] [Info] Direct connect luogu.org:80
+[2019-08-04 07:51:44] [Info] Direct connect www.luogu.org:443
+[2019-08-04 07:51:46] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 07:51:46] [Info] Disconnect apis.google.com:443
+[2019-08-04 07:51:46] [Info] Disconnect id.google.com:443
+[2019-08-04 07:51:46] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 07:51:46] [Info] Disconnect www.google.com:443
+[2019-08-04 07:51:47] [Info] Direct connect www.luogu.org:443
+[2019-08-04 07:51:47] [Info] Connect clients1.google.com:443
+[2019-08-04 07:51:48] [Info] Connect clients1.google.com:443
+[2019-08-04 07:51:56] [Info] Disconnect clients1.google.com:443
+[2019-08-04 07:51:56] [Info] Disconnect ogs.google.com:443
+[2019-08-04 07:51:56] [Info] Disconnect clients1.google.com:443
+[2019-08-04 07:51:58] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 07:51:59] [Info] Direct connect www.luogu.org:443
+[2019-08-04 07:51:59] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 07:52:00] [Debug] DNS query fail: api.cinema000.xyz
+[2019-08-04 07:52:00] [Info] Connect api.cinema000.xyz:443
+[2019-08-04 07:52:00] [Info] Direct connect api.ixiaowai.cn:443
+[2019-08-04 07:52:00] [Info] Direct connect api.dujin.org:443
+[2019-08-04 07:52:00] [Info] Direct connect random.52ecy.cn:443
+[2019-08-04 07:52:00] [Info] Direct connect img.xjh.me:80
+[2019-08-04 07:52:00] [Info] Direct connect acg.bakayun.cn:80
+[2019-08-04 07:52:00] [Info] Direct connect img.xjh.me:80
+[2019-08-04 07:52:00] [Info] Direct connect ipcounter.ihcr.top:80
+[2019-08-04 07:52:00] [Info] Direct connect img.xjh.me:80
+[2019-08-04 07:52:00] [Info] Connect crt.usertrust.com:80
+[2019-08-04 07:52:00] [Info] Direct connect ipcounter.ihcr.top:443
+[2019-08-04 07:52:00] [Info] Direct connect img.xjh.me:80
+[2019-08-04 07:52:00] [Info] Direct connect img.xjh.me:80
+[2019-08-04 07:52:00] [Info] Direct connect img.xjh.me:80
+[2019-08-04 07:52:00] [Info] Direct connect img.https.badapple.top:443
+[2019-08-04 07:52:00] [Info] Connect cert.int-x3.letsencrypt.org:80
+[2019-08-04 07:52:01] [Info] Disconnect api.cinema000.xyz:443
+[2019-08-04 07:52:01] [Info] Disconnect crt.usertrust.com:80
+[2019-08-04 07:52:01] [Info] Disconnect cert.int-x3.letsencrypt.org:80
+[2019-08-04 07:52:02] [Info] Connect clients1.google.com:443
+[2019-08-04 07:52:02] [Info] Direct connect ws1.sinaimg.cn:443
+[2019-08-04 07:52:02] [Info] Direct connect cdn.sinaimg.cn.52ecy.cn:443
+[2019-08-04 07:52:02] [Info] Direct connect ws3.sinaimg.cn:443
+[2019-08-04 07:52:03] [Info] Connect clients1.google.com:443
+[2019-08-04 07:52:06] [Info] Disconnect clients1.google.com:443
+[2019-08-04 07:52:06] [Info] Disconnect clients1.google.com:443
+[2019-08-04 07:52:11] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:52:11] [Info] Direct connect r17---sn-2x3eln7e.gvt1.com:80
+[2019-08-04 07:52:12] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:52:12] [Info] Direct connect r17---sn-2x3eln7e.gvt1.com:80
+[2019-08-04 07:52:14] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:52:14] [Info] Direct connect r17---sn-2x3eln7e.gvt1.com:80
+[2019-08-04 07:52:16] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:52:16] [Info] Direct connect r17---sn-2x3eln7e.gvt1.com:80
+[2019-08-04 07:52:20] [Info] Direct connect update.googleapis.com:443
+[2019-08-04 07:52:28] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:52:40] [Info] Direct connect www.luogu.org:443
+[2019-08-04 07:52:40] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 07:52:40] [Info] Direct connect cdn.sinaimg.cn.52ecy.cn:443
+[2019-08-04 07:52:40] [Info] Direct connect ipcounter.ihcr.top:443
+[2019-08-04 07:52:40] [Info] Direct connect img.https.badapple.top:443
+[2019-08-04 07:52:40] [Info] Direct connect api.ixiaowai.cn:443
+[2019-08-04 07:52:40] [Info] Direct connect ws1.sinaimg.cn:443
+[2019-08-04 07:52:40] [Info] Direct connect ws3.sinaimg.cn:443
+[2019-08-04 07:52:41] [Info] Connect clients1.google.com:443
+[2019-08-04 07:52:42] [Info] Connect clients1.google.com:443
+[2019-08-04 07:52:46] [Info] Disconnect clients1.google.com:443
+[2019-08-04 07:52:46] [Info] Disconnect clients1.google.com:443
+[2019-08-04 07:53:01] [Info] Direct connect www.luogu.org:443
+[2019-08-04 07:53:01] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 07:53:06] [Info] Direct connect www.luogu.org:443
+[2019-08-04 07:53:06] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 07:53:15] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:53:15] [Info] Direct connect r4---sn-2x3een7l.gvt1.com:80
+[2019-08-04 07:53:16] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:53:16] [Info] Direct connect r4---sn-2x3een7l.gvt1.com:80
+[2019-08-04 07:53:19] [Info] Direct connect update.googleapis.com:443
+[2019-08-04 07:53:32] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:53:43] [Info] Direct connect www.luogu.org:443
+[2019-08-04 07:53:43] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 07:53:46] [Info] Direct connect www.luogu.org:443
+[2019-08-04 07:53:46] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 07:53:48] [Info] Connect clients1.google.com:443
+[2019-08-04 07:53:49] [Info] Connect clients1.google.com:443
+[2019-08-04 07:53:56] [Info] Disconnect clients1.google.com:443
+[2019-08-04 07:53:56] [Info] Disconnect clients1.google.com:443
+[2019-08-04 07:54:05] [Info] Connect www.google.com:443
+[2019-08-04 07:54:05] [Info] Connect www.google.com:443
+[2019-08-04 07:54:05] [Info] Connect www.google.com:443
+[2019-08-04 07:54:08] [Info] Connect id.google.com:443
+[2019-08-04 07:54:08] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 07:54:08] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 07:54:08] [Info] Connect apis.google.com:443
+[2019-08-04 07:54:10] [Info] Connect www.sap.com:443
+[2019-08-04 07:54:10] [Info] Connect www.sap.com:443
+[2019-08-04 07:54:11] [Info] Disconnect www.sap.com:443
+[2019-08-04 07:54:11] [Info] Direct connect assets.adobedtm.com:443
+[2019-08-04 07:54:11] [Info] Connect raw.githubusercontent.com:443
+[2019-08-04 07:54:13] [Info] Direct connect adservice.google.com:443
+[2019-08-04 07:54:13] [Debug] DNS query fail: adservice.google.cn
+[2019-08-04 07:54:13] [Info] Connect adservice.google.cn:443
+[2019-08-04 07:54:13] [Error] connect to update server error
+[2019-08-04 07:54:14] [Info] Disconnect adservice.google.cn:443
+[2019-08-04 07:54:16] [Info] Disconnect apis.google.com:443
+[2019-08-04 07:54:16] [Info] Disconnect www.google.com:443
+[2019-08-04 07:54:16] [Info] Disconnect www.google.com:443
+[2019-08-04 07:54:16] [Info] Disconnect www.sap.com:443
+[2019-08-04 07:54:16] [Info] Disconnect id.google.com:443
+[2019-08-04 07:54:16] [Info] Connect blogs.sap.com:443
+[2019-08-04 07:54:16] [Info] Connect blogs.sap.com:443
+[2019-08-04 07:54:18] [Info] Direct connect www.download.windowsupdate.com:80
+[2019-08-04 07:54:18] [Debug] DNS query fail: adservice.google.cn
+[2019-08-04 07:54:18] [Info] Connect adservice.google.cn:443
+[2019-08-04 07:54:18] [Info] Connect blogs.sap.com:443
+[2019-08-04 07:54:18] [Info] Connect blogs.sap.com:443
+[2019-08-04 07:54:18] [Info] Connect blogs.sap.com:443
+[2019-08-04 07:54:18] [Info] Direct connect assets.adobedtm.com:443
+[2019-08-04 07:54:19] [Info] Connect blogs.sap.com:443
+[2019-08-04 07:54:19] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-04 07:54:19] [Info] Connect avatars.services.sap.com:443
+[2019-08-04 07:54:19] [Info] Connect static.community.services.sap:443
+[2019-08-04 07:54:19] [Info] Connect static.community.services.sap:443
+[2019-08-04 07:54:19] [Info] Connect avatars.services.sap.com:443
+[2019-08-04 07:54:19] [Info] Disconnect adservice.google.cn:443
+[2019-08-04 07:54:19] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:54:19] [Info] Direct connect r8---sn-2x3een7r.gvt1.com:80
+[2019-08-04 07:54:20] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:54:21] [Info] Direct connect r8---sn-2x3een7r.gvt1.com:80
+[2019-08-04 07:54:23] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 07:54:23] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 07:54:23] [Info] Connect apis.google.com:443
+[2019-08-04 07:54:24] [Info] Direct connect update.googleapis.com:443
+[2019-08-04 07:54:25] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:54:25] [Info] Direct connect r2---sn-2x3eln7l.gvt1.com:80
+[2019-08-04 07:54:25] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:54:25] [Info] Direct connect r2---sn-2x3eln7l.gvt1.com:80
+[2019-08-04 07:54:26] [Info] Disconnect apis.google.com:443
+[2019-08-04 07:54:26] [Info] Disconnect blogs.sap.com:443
+[2019-08-04 07:54:26] [Info] Disconnect avatars.services.sap.com:443
+[2019-08-04 07:54:26] [Info] Disconnect blogs.sap.com:443
+[2019-08-04 07:54:26] [Info] Disconnect blogs.sap.com:443
+[2019-08-04 07:54:26] [Info] Disconnect blogs.sap.com:443
+[2019-08-04 07:54:26] [Info] Disconnect blogs.sap.com:443
+[2019-08-04 07:54:26] [Info] Disconnect blogs.sap.com:443
+[2019-08-04 07:54:26] [Info] Disconnect static.community.services.sap:443
+[2019-08-04 07:54:26] [Info] Connect www.google.com:443
+[2019-08-04 07:54:26] [Info] Connect www.google.com:443
+[2019-08-04 07:54:26] [Info] Connect www.google.com:443
+[2019-08-04 07:54:26] [Info] Disconnect www.google.com:443
+[2019-08-04 07:54:26] [Info] Disconnect static.community.services.sap:443
+[2019-08-04 07:54:27] [Info] Disconnect avatars.services.sap.com:443
+[2019-08-04 07:54:28] [Debug] DNS query fail: adservice.google.cn
+[2019-08-04 07:54:28] [Info] Connect adservice.google.cn:443
+[2019-08-04 07:54:29] [Info] Disconnect adservice.google.cn:443
+[2019-08-04 07:54:30] [Info] Direct connect update.googleapis.com:443
+[2019-08-04 07:54:30] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:54:31] [Info] Direct connect r4---sn-2x3een7l.gvt1.com:80
+[2019-08-04 07:54:31] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:54:31] [Info] Direct connect r4---sn-2x3een7l.gvt1.com:80
+[2019-08-04 07:54:34] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:54:34] [Info] Direct connect cdn.bootcss.com:443
+[2019-08-04 07:54:34] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:54:34] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:54:34] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:54:34] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:54:36] [Info] Disconnect www.google.com:443
+[2019-08-04 07:54:36] [Info] Disconnect www.google.com:443
+[2019-08-04 07:54:36] [Info] Disconnect www.google.com:443
+[2019-08-04 07:54:37] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 07:54:41] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:54:41] [Info] Direct connect r7---sn-2x3een7r.gvt1.com:80
+[2019-08-04 07:54:42] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:54:42] [Info] Direct connect r7---sn-2x3een7r.gvt1.com:80
+[2019-08-04 07:54:56] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:54:56] [Info] Direct connect r9---sn-2x3een76.gvt1.com:80
+[2019-08-04 07:54:56] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:54:56] [Info] Direct connect r9---sn-2x3een76.gvt1.com:80
+[2019-08-04 07:55:00] [Info] Direct connect update.googleapis.com:443
+[2019-08-04 07:55:04] [Info] Direct connect update.googleapis.com:443
+[2019-08-04 07:55:04] [Info] Direct connect update.googleapis.com:443
+[2019-08-04 07:55:04] [Info] Direct connect update.googleapis.com:443
+[2019-08-04 07:55:07] [Info] Direct connect update.googleapis.com:443
+[2019-08-04 07:55:08] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 07:55:08] [Info] Direct connect r10---sn-2x3eln7d.gvt1.com:80
+[2019-08-04 07:55:08] [Info] Direct connect r10---sn-2x3eln7d.gvt1.com:80
+[2019-08-04 07:55:11] [Info] Direct connect r10---sn-2x3eln7d.gvt1.com:80
+[2019-08-04 07:55:12] [Info] Direct connect r10---sn-2x3eln7d.gvt1.com:80
+[2019-08-04 07:55:13] [Info] Direct connect r10---sn-2x3eln7d.gvt1.com:80
+[2019-08-04 07:55:14] [Info] Direct connect r10---sn-2x3eln7d.gvt1.com:80
+[2019-08-04 07:55:15] [Info] Direct connect r10---sn-2x3eln7d.gvt1.com:80
+[2019-08-04 07:55:16] [Info] Direct connect r10---sn-2x3eln7d.gvt1.com:80
+[2019-08-04 07:55:17] [Info] Direct connect r10---sn-2x3eln7d.gvt1.com:80
+[2019-08-04 07:55:18] [Info] Direct connect r10---sn-2x3eln7d.gvt1.com:80
+[2019-08-04 07:55:19] [Info] Direct connect r10---sn-2x3eln7d.gvt1.com:80
+[2019-08-04 07:55:20] [Info] Direct connect update.googleapis.com:443
+[2019-08-04 07:55:30] [Info] Direct connect update.googleapis.com:443
+[2019-08-04 07:55:41] [Info] Direct connect 120.77.82.93:80
