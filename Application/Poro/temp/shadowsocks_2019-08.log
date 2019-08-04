@@ -14131,3 +14131,946 @@
 [2019-08-04 07:55:20] [Info] Direct connect update.googleapis.com:443
 [2019-08-04 07:55:30] [Info] Direct connect update.googleapis.com:443
 [2019-08-04 07:55:41] [Info] Direct connect 120.77.82.93:80
+[2019-08-04 18:38:01] ShadowsocksR started on port 1080
+[2019-08-04 18:38:14] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-08-04 18:38:14] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-08-04 18:38:14] [Info] Direct connect c.gj.qq.com:80
+[2019-08-04 18:38:15] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-08-04 18:38:15] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-08-04 18:38:15] [Info] Connect www.google.com:443
+[2019-08-04 18:38:15] [Info] Connect raw.githubusercontent.com:443
+[2019-08-04 18:38:15] [Info] Connect www.google.com:443
+[2019-08-04 18:38:15] [Info] Direct connect dldir1.qq.com:80
+[2019-08-04 18:38:20] [Info] Connect www.google.com:443
+[2019-08-04 18:38:21] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 18:38:21] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 18:38:22] [Error] connect to update server error
+[2019-08-04 18:38:22] [Info] Connect ogs.google.com:443
+[2019-08-04 18:38:22] [Info] Connect apis.google.com:443
+[2019-08-04 18:38:23] [Info] Disconnect www.google.com:443
+[2019-08-04 18:38:24] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-04 18:38:24] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-04 18:38:24] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-04 18:38:24] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-04 18:38:24] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-04 18:38:24] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-04 18:38:25] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-04 18:38:25] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-04 18:38:25] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-04 18:38:25] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-04 18:38:25] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-04 18:38:27] [Info] Direct connect adservice.google.com:443
+[2019-08-04 18:38:33] [Info] Disconnect www.google.com:443
+[2019-08-04 18:38:33] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-04 18:38:33] [Info] Disconnect apis.google.com:443
+[2019-08-04 18:38:33] [Info] Disconnect ogs.google.com:443
+[2019-08-04 18:38:34] [Info] Connect www.google.com:443
+[2019-08-04 18:38:43] [Info] Disconnect www.google.com:443
+[2019-08-04 18:38:45] [Info] Connect clients1.google.com:443
+[2019-08-04 18:38:45] [Info] Connect clients1.google.com:443
+[2019-08-04 18:38:53] [Info] Disconnect clients1.google.com:443
+[2019-08-04 18:38:53] [Info] Disconnect clients1.google.com:443
+[2019-08-04 18:40:01] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-04 18:41:01] [Info] Connect www.google.com:443
+[2019-08-04 18:41:01] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 18:41:01] [Info] Connect apis.google.com:443
+[2019-08-04 18:41:02] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-04 18:41:02] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 18:41:02] [Info] Connect www.google.com:443
+[2019-08-04 18:41:03] [Info] Disconnect www.google.com:443
+[2019-08-04 18:41:03] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-04 18:41:04] [Info] Direct connect translate.google.cn:443
+[2019-08-04 18:41:04] [Info] Direct connect translate.google.cn:443
+[2019-08-04 18:41:04] [Info] Connect id.google.com:443
+[2019-08-04 18:41:06] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-04 18:41:06] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-04 18:41:06] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 18:41:06] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-04 18:41:07] [Info] Direct connect adservice.google.com:443
+[2019-08-04 18:41:09] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-04 18:41:09] [Info] Direct connect www.google-analytics.com:443
+[2019-08-04 18:41:09] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-04 18:41:13] [Info] Disconnect id.google.com:443
+[2019-08-04 18:41:13] [Info] Disconnect www.google.com:443
+[2019-08-04 18:41:14] [Info] Direct connect www.gstatic.cn:443
+[2019-08-04 18:41:14] [Info] Direct connect www.gstatic.cn:443
+[2019-08-04 18:41:14] [Info] Connect clients1.google.com:443
+[2019-08-04 18:41:14] [Info] Direct connect www.gstatic.cn:443
+[2019-08-04 18:41:14] [Info] Direct connect www.gstatic.cn:443
+[2019-08-04 18:41:14] [Info] Direct connect www.gstatic.cn:443
+[2019-08-04 18:41:14] [Info] Direct connect www.gstatic.cn:443
+[2019-08-04 18:41:14] [Info] Connect accounts.google.com:443
+[2019-08-04 18:41:15] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 18:41:15] [Info] Connect play.google.com:443
+[2019-08-04 18:41:16] [Info] Connect play.google.com:443
+[2019-08-04 18:41:18] [Info] Connect play.google.com:443
+[2019-08-04 18:41:19] [Info] Connect play.google.com:443
+[2019-08-04 18:41:19] [Info] Direct connect translate.google.cn:443
+[2019-08-04 18:41:20] [Info] Connect play.google.com:443
+[2019-08-04 18:41:20] [Info] Direct connect translate.google.cn:443
+[2019-08-04 18:41:20] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-04 18:41:23] [Info] Disconnect play.google.com:443
+[2019-08-04 18:41:23] [Info] Disconnect play.google.com:443
+[2019-08-04 18:41:23] [Info] Disconnect play.google.com:443
+[2019-08-04 18:41:23] [Info] Disconnect play.google.com:443
+[2019-08-04 18:41:23] [Info] Disconnect clients1.google.com:443
+[2019-08-04 18:41:23] [Info] Disconnect accounts.google.com:443
+[2019-08-04 18:41:23] [Info] Disconnect apis.google.com:443
+[2019-08-04 18:41:24] [Info] Direct connect translate.google.cn:443
+[2019-08-04 18:41:32] [Info] Connect inputtools.google.com:443
+[2019-08-04 18:41:32] [Info] Connect inputtools.google.com:443
+[2019-08-04 18:41:33] [Info] Disconnect play.google.com:443
+[2019-08-04 18:41:33] [Info] Connect play.google.com:443
+[2019-08-04 18:41:34] [Info] Direct connect translate.google.cn:443
+[2019-08-04 18:41:35] [Info] Connect play.google.com:443
+[2019-08-04 18:41:43] [Info] Disconnect inputtools.google.com:443
+[2019-08-04 18:41:43] [Info] Disconnect play.google.com:443
+[2019-08-04 18:41:43] [Info] Disconnect play.google.com:443
+[2019-08-04 18:41:43] [Info] Disconnect inputtools.google.com:443
+[2019-08-04 18:42:26] [Info] Connect inputtools.google.com:443
+[2019-08-04 18:42:26] [Info] Connect play.google.com:443
+[2019-08-04 18:42:27] [Info] Connect inputtools.google.com:443
+[2019-08-04 18:42:33] [Info] Disconnect play.google.com:443
+[2019-08-04 18:42:33] [Info] Disconnect inputtools.google.com:443
+[2019-08-04 18:42:33] [Info] Disconnect inputtools.google.com:443
+[2019-08-04 18:43:07] [Info] Connect raw.githubusercontent.com:443
+[2019-08-04 18:43:09] [Info] Connect raw.githubusercontent.com:443
+[2019-08-04 18:43:11] [Error] connect to update server error
+[2019-08-04 18:44:51] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-04 18:46:01] [Info] Connect www.google.com:443
+[2019-08-04 18:46:01] [Info] Connect id.google.com:443
+[2019-08-04 18:46:02] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 18:46:02] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 18:46:02] [Info] Connect apis.google.com:443
+[2019-08-04 18:46:02] [Info] Connect www.google.com:443
+[2019-08-04 18:46:03] [Info] Disconnect id.google.com:443
+[2019-08-04 18:46:03] [Info] Disconnect apis.google.com:443
+[2019-08-04 18:46:06] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 18:46:09] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 18:46:09] [Info] Connect ogs.google.com:443
+[2019-08-04 18:46:13] [Info] Disconnect www.google.com:443
+[2019-08-04 18:46:13] [Info] Disconnect www.google.com:443
+[2019-08-04 18:46:13] [Info] Disconnect ogs.google.com:443
+[2019-08-04 18:46:13] [Info] Connect poro.cx:80
+[2019-08-04 18:46:15] [Info] Disconnect poro.cx:80
+[2019-08-04 18:46:15] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:17] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:17] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:17] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:21] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:21] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:21] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:21] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:21] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:21] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:22] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:22] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:23] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:24] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:24] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:24] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:26] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:26] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:26] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:26] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:26] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:26] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:27] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:27] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:28] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:30] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:30] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:32] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:32] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:35] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:36] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:39] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:39] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:41] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:42] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:44] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:44] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:44] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:44] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:44] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:45] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:45] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:45] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:45] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:46] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:46] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:47] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:47] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:47] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:47] [Info] Direct connect clientservices.googleapis.com:443
+[2019-08-04 18:46:47] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:48] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:48] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:48] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:49] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:51] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:52] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:53] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:55] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:55] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:46:57] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:47:01] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:47:04] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:47:04] [Info] Connect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:47:04] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:47:06] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:47:06] [Info] Disconnect hwlu.thmtk.kf5vl.hqmicsv.freepolink.top:80
+[2019-08-04 18:47:35] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:47:36] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:47:40] [Info] Connect clients1.google.com:443
+[2019-08-04 18:47:41] [Info] Connect clients1.google.com:443
+[2019-08-04 18:47:43] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:47:43] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:47:44] [Info] Disconnect clients1.google.com:443
+[2019-08-04 18:47:44] [Info] Direct connect api.dujin.org:443
+[2019-08-04 18:47:44] [Info] Direct connect ipcounter.ihcr.top:80
+[2019-08-04 18:47:44] [Info] Direct connect api.ixiaowai.cn:443
+[2019-08-04 18:47:44] [Info] Direct connect img.xjh.me:80
+[2019-08-04 18:47:44] [Info] Direct connect img.xjh.me:80
+[2019-08-04 18:47:44] [Info] Direct connect img.xjh.me:80
+[2019-08-04 18:47:44] [Info] Direct connect acg.bakayun.cn:80
+[2019-08-04 18:47:44] [Debug] DNS query fail: api.cinema000.xyz
+[2019-08-04 18:47:44] [Info] Connect api.cinema000.xyz:443
+[2019-08-04 18:47:44] [Info] Connect crt.usertrust.com:80
+[2019-08-04 18:47:45] [Info] Connect cert.int-x3.letsencrypt.org:80
+[2019-08-04 18:47:45] [Info] Direct connect ipcounter.ihcr.top:443
+[2019-08-04 18:47:45] [Info] Direct connect img.xjh.me:80
+[2019-08-04 18:47:45] [Info] Direct connect img.xjh.me:80
+[2019-08-04 18:47:45] [Info] Direct connect img.xjh.me:80
+[2019-08-04 18:47:45] [Info] Direct connect img.https.badapple.top:443
+[2019-08-04 18:47:45] [Info] Connect apps.identrust.com:80
+[2019-08-04 18:47:45] [Info] Direct connect random.52ecy.cn:443
+[2019-08-04 18:47:45] [Info] Direct connect cdn.sinaimg.cn.52ecy.cn:443
+[2019-08-04 18:47:45] [Info] Direct connect ws1.sinaimg.cn:443
+[2019-08-04 18:47:45] [Info] Connect apps.identrust.com:80
+[2019-08-04 18:47:45] [Info] Disconnect api.cinema000.xyz:443
+[2019-08-04 18:47:46] [Info] Disconnect crt.usertrust.com:80
+[2019-08-04 18:47:46] [Info] Connect apps.identrust.com:80
+[2019-08-04 18:47:46] [Info] Disconnect cert.int-x3.letsencrypt.org:80
+[2019-08-04 18:47:47] [Info] Disconnect apps.identrust.com:80
+[2019-08-04 18:47:48] [Info] Disconnect apps.identrust.com:80
+[2019-08-04 18:47:48] [Info] Direct connect ws3.sinaimg.cn:443
+[2019-08-04 18:47:52] [Info] Disconnect apps.identrust.com:80
+[2019-08-04 18:47:53] [Info] Disconnect clients1.google.com:443
+[2019-08-04 18:47:54] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:47:54] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:47:54] [Info] Direct connect cdn.sinaimg.cn.52ecy.cn:443
+[2019-08-04 18:47:54] [Info] Direct connect ipcounter.ihcr.top:443
+[2019-08-04 18:47:54] [Info] Direct connect ws1.sinaimg.cn:443
+[2019-08-04 18:47:54] [Info] Direct connect ws3.sinaimg.cn:443
+[2019-08-04 18:47:54] [Info] Direct connect img.https.badapple.top:443
+[2019-08-04 18:47:54] [Info] Direct connect api.ixiaowai.cn:443
+[2019-08-04 18:47:58] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:48:02] [Info] Connect i.loli.net:443
+[2019-08-04 18:48:04] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:48:04] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:48:13] [Info] Disconnect i.loli.net:443
+[2019-08-04 18:48:14] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:48:14] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:48:38] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:48:42] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:48:43] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:48:43] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:48:53] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:48:55] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:48:55] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:48:58] [Info] Connect latex.codecogs.com:80
+[2019-08-04 18:48:59] [Info] Disconnect latex.codecogs.com:80
+[2019-08-04 18:50:49] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-08-04 18:52:04] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:52:10] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:52:15] [Info] Direct connect tconf.f.360.cn:80
+[2019-08-04 18:52:15] [Info] Direct connect 36.99.30.164:80
+[2019-08-04 18:52:24] [Info] Connect www.google.com:443
+[2019-08-04 18:52:24] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 18:52:24] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 18:52:24] [Info] Connect apis.google.com:443
+[2019-08-04 18:52:25] [Info] Connect id.google.com:443
+[2019-08-04 18:52:25] [Info] Connect www.google.com:443
+[2019-08-04 18:52:26] [Info] Connect www.google.com:443
+[2019-08-04 18:52:26] [Info] Connect www.google.com:443
+[2019-08-04 18:52:26] [Info] Connect www.google.com:443
+[2019-08-04 18:52:26] [Info] Connect www.google.com:443
+[2019-08-04 18:52:26] [Info] Connect poro.cx:80
+[2019-08-04 18:52:29] [Info] Disconnect poro.cx:80
+[2019-08-04 18:52:29] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:33] [Info] Disconnect id.google.com:443
+[2019-08-04 18:52:33] [Info] Disconnect apis.google.com:443
+[2019-08-04 18:52:33] [Info] Disconnect www.google.com:443
+[2019-08-04 18:52:33] [Info] Disconnect www.google.com:443
+[2019-08-04 18:52:33] [Info] Disconnect www.google.com:443
+[2019-08-04 18:52:34] [Info] Disconnect www.google.com:443
+[2019-08-04 18:52:34] [Info] Disconnect www.google.com:443
+[2019-08-04 18:52:34] [Info] Disconnect www.google.com:443
+[2019-08-04 18:52:34] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:34] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:34] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:36] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:36] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:36] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:36] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:36] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:36] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:36] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:36] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:37] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:38] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:38] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:39] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:39] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:39] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:40] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:40] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:41] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:41] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:41] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:43] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:44] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:44] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:44] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:48] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:49] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:50] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:50] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:50] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:51] [Info] Connect clients2.google.com:443
+[2019-08-04 18:52:52] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:52] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:52] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:53] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 18:52:53] [Info] Direct connect r17---sn-2x3een7d.gvt1.com:80
+[2019-08-04 18:52:53] [Info] Direct connect redirector.gvt1.com:80
+[2019-08-04 18:52:53] [Info] Disconnect clients2.google.com:443
+[2019-08-04 18:52:53] [Info] Direct connect r5---sn-2x3eln7d.gvt1.com:80
+[2019-08-04 18:52:54] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:55] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:55] [Info] Connect www.googleapis.com:443
+[2019-08-04 18:52:57] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:57] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:57] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:58] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:58] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:58] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:52:58] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:00] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:00] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:01] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:01] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:01] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:02] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:02] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:02] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:02] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:03] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:03] [Info] Disconnect www.googleapis.com:443
+[2019-08-04 18:53:03] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:04] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:05] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:09] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:09] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:11] [Info] Connect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:11] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:12] [Info] Disconnect obxf.mkrg7.1rlvp.gnw13lo.freepolink.top:80
+[2019-08-04 18:53:22] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:53:25] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:53:26] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:53:32] [Info] Connect clients1.google.com:443
+[2019-08-04 18:53:33] [Info] Connect clients1.google.com:443
+[2019-08-04 18:53:33] [Info] Disconnect clients1.google.com:443
+[2019-08-04 18:53:43] [Info] Disconnect clients1.google.com:443
+[2019-08-04 18:53:55] [Info] Connect clients4.google.com:443
+[2019-08-04 18:53:56] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:53:56] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:53:58] [Info] Connect clients1.google.com:443
+[2019-08-04 18:54:03] [Info] Disconnect clients4.google.com:443
+[2019-08-04 18:54:03] [Info] Disconnect clients1.google.com:443
+[2019-08-04 18:55:35] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:55:35] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:55:36] [Info] Connect clients1.google.com:443
+[2019-08-04 18:55:43] [Info] Disconnect clients1.google.com:443
+[2019-08-04 18:57:19] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:57:19] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:57:42] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:57:42] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:57:46] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:57:46] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:58:02] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:58:03] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:58:07] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-08-04 18:58:07] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-08-04 18:58:36] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:58:36] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:59:02] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:59:03] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:59:14] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:59:14] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:59:42] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 18:59:42] [Info] Direct connect www.luogu.org:443
+[2019-08-04 18:59:43] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 19:00:38] [Info] Direct connect www.luogu.org:443
+[2019-08-04 19:00:38] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 19:00:58] [Info] Direct connect www.luogu.org:443
+[2019-08-04 19:00:58] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 19:00:58] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 19:01:08] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 19:01:28] [Info] Direct connect www.luogu.org:443
+[2019-08-04 19:02:38] [Info] Direct connect www.luogu.org:443
+[2019-08-04 19:02:43] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 19:02:44] [Info] Direct connect www.luogu.org:443
+[2019-08-04 19:02:50] [Info] Direct connect www.luogu.org:443
+[2019-08-04 19:02:51] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 19:03:16] [Info] Direct connect www.luogu.org:443
+[2019-08-04 19:03:16] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 19:03:19] [Info] Direct connect www.luogu.org:443
+[2019-08-04 19:03:19] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 19:03:44] [Info] Direct connect www.luogu.org:443
+[2019-08-04 19:04:15] [Info] Direct connect www.luogu.org:443
+[2019-08-04 19:04:15] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 19:04:28] [Info] Direct connect www.luogu.org:443
+[2019-08-04 19:04:29] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 19:04:40] [Info] Direct connect www.luogu.org:443
+[2019-08-04 19:04:40] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 19:04:56] [Info] Direct connect www.luogu.org:443
+[2019-08-04 19:04:56] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 19:05:14] [Info] Direct connect www.luogu.org:443
+[2019-08-04 19:05:14] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 19:05:14] [Info] Direct connect www.baidu.com:443
+[2019-08-04 19:05:15] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 19:05:15] [Info] Connect clients1.google.com:443
+[2019-08-04 19:05:19] [Info] Disconnect clients1.google.com:443
+[2019-08-04 19:05:28] [Info] Connect sm.ms:443
+[2019-08-04 19:05:28] [Info] Connect sm.ms:443
+[2019-08-04 19:05:30] [Info] Disconnect sm.ms:443
+[2019-08-04 19:05:32] [Info] Connect fonts.loli.net:443
+[2019-08-04 19:05:36] [Info] Direct connect translate.googleapis.com:443
+[2019-08-04 19:05:38] [Info] Disconnect fonts.loli.net:443
+[2019-08-04 19:05:38] [Info] Disconnect sm.ms:443
+[2019-08-04 19:06:24] [Info] Connect sm.ms:443
+[2019-08-04 19:06:24] [Info] Connect fonts.loli.net:443
+[2019-08-04 19:06:28] [Info] Disconnect fonts.loli.net:443
+[2019-08-04 19:06:28] [Info] Disconnect sm.ms:443
+[2019-08-04 19:06:33] [Info] Connect fonts.loli.net:443
+[2019-08-04 19:06:33] [Info] Connect sm.ms:443
+[2019-08-04 19:06:38] [Info] Disconnect fonts.loli.net:443
+[2019-08-04 19:06:38] [Info] Disconnect sm.ms:443
+[2019-08-04 19:06:50] [Info] Connect sm.ms:443
+[2019-08-04 19:06:50] [Info] Connect fonts.loli.net:443
+[2019-08-04 19:06:56] [Info] Connect www.google.com:443
+[2019-08-04 19:06:56] [Info] Connect id.google.com:443
+[2019-08-04 19:06:56] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 19:06:56] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 19:06:56] [Info] Connect apis.google.com:443
+[2019-08-04 19:06:58] [Info] Connect ogs.google.com:443
+[2019-08-04 19:06:58] [Info] Disconnect fonts.loli.net:443
+[2019-08-04 19:06:58] [Info] Disconnect apis.google.com:443
+[2019-08-04 19:06:58] [Info] Disconnect id.google.com:443
+[2019-08-04 19:06:58] [Info] Connect www.google.com:443
+[2019-08-04 19:06:58] [Info] Connect id.google.com:443
+[2019-08-04 19:06:59] [Info] Disconnect www.google.com:443
+[2019-08-04 19:06:59] [Info] Disconnect sm.ms:443
+[2019-08-04 19:06:59] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 19:06:59] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 19:06:59] [Info] Connect apis.google.com:443
+[2019-08-04 19:07:00] [Info] Connect telegram.org:443
+[2019-08-04 19:07:01] [Info] Connect telegram.org:443
+[2019-08-04 19:07:02] [Info] Connect telegram.org:443
+[2019-08-04 19:07:02] [Info] Connect telegram.org:443
+[2019-08-04 19:07:03] [Info] Direct connect adservice.google.com:443
+[2019-08-04 19:07:04] [Info] Direct connect www.google-analytics.com:443
+[2019-08-04 19:07:04] [Info] Connect telegram.org:443
+[2019-08-04 19:07:04] [Info] Connect telegram.org:443
+[2019-08-04 19:07:08] [Info] Disconnect telegram.org:443
+[2019-08-04 19:07:08] [Info] Disconnect apis.google.com:443
+[2019-08-04 19:07:08] [Info] Disconnect telegram.org:443
+[2019-08-04 19:07:08] [Info] Disconnect telegram.org:443
+[2019-08-04 19:07:08] [Info] Disconnect telegram.org:443
+[2019-08-04 19:07:09] [Info] Disconnect telegram.org:443
+[2019-08-04 19:07:09] [Info] Disconnect telegram.org:443
+[2019-08-04 19:07:09] [Info] Disconnect id.google.com:443
+[2019-08-04 19:07:09] [Info] Disconnect ogs.google.com:443
+[2019-08-04 19:07:09] [Info] Disconnect www.google.com:443
+[2019-08-04 19:07:12] [Info] Direct connect www.google-analytics.com:443
+[2019-08-04 19:07:12] [Info] Connect desktop.telegram.org:443
+[2019-08-04 19:07:12] [Info] Connect desktop.telegram.org:443
+[2019-08-04 19:07:14] [Info] Connect desktop.telegram.org:443
+[2019-08-04 19:07:14] [Info] Connect desktop.telegram.org:443
+[2019-08-04 19:07:18] [Info] Connect telegram.org:443
+[2019-08-04 19:07:18] [Info] Connect telegram.org:443
+[2019-08-04 19:07:18] [Info] Direct connect www.google-analytics.com:443
+[2019-08-04 19:07:18] [Info] Disconnect desktop.telegram.org:443
+[2019-08-04 19:07:18] [Info] Disconnect desktop.telegram.org:443
+[2019-08-04 19:07:18] [Info] Disconnect desktop.telegram.org:443
+[2019-08-04 19:07:18] [Info] Disconnect desktop.telegram.org:443
+[2019-08-04 19:07:20] [Info] Connect updates.tdesktop.com:443
+[2019-08-04 19:07:24] [Info] Direct connect www.luogu.org:443
+[2019-08-04 19:07:24] [Info] Direct connect www.baidu.com:443
+[2019-08-04 19:07:24] [Info] Direct connect cdn.luogu.org:443
+[2019-08-04 19:07:25] [Info] Connect clients1.google.com:443
+[2019-08-04 19:07:28] [Info] Disconnect telegram.org:443
+[2019-08-04 19:07:28] [Info] Disconnect telegram.org:443
+[2019-08-04 19:07:28] [Info] Disconnect clients1.google.com:443
+[2019-08-04 19:07:31] [Info] Connect www.google.com:443
+[2019-08-04 19:07:31] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 19:07:31] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 19:07:31] [Info] Connect apis.google.com:443
+[2019-08-04 19:07:31] [Info] Connect id.google.com:443
+[2019-08-04 19:07:31] [Info] Connect www.google.com:443
+[2019-08-04 19:07:31] [Info] Connect www.google.com:443
+[2019-08-04 19:07:38] [Info] Disconnect www.google.com:443
+[2019-08-04 19:07:38] [Info] Disconnect www.google.com:443
+[2019-08-04 19:07:38] [Info] Disconnect apis.google.com:443
+[2019-08-04 19:07:38] [Info] Disconnect id.google.com:443
+[2019-08-04 19:07:38] [Info] Disconnect www.google.com:443
+[2019-08-04 19:07:41] [Info] Connect wikipedia.org:80
+[2019-08-04 19:07:42] [Info] Connect wikipedia.org:443
+[2019-08-04 19:07:42] [Info] Disconnect wikipedia.org:80
+[2019-08-04 19:07:43] [Info] Direct connect www.download.windowsupdate.com:80
+[2019-08-04 19:07:44] [Info] Connect www.wikipedia.org:443
+[2019-08-04 19:07:45] [Info] Connect upload.wikimedia.org:443
+[2019-08-04 19:07:47] [Info] Connect zh.wikipedia.org:443
+[2019-08-04 19:07:48] [Info] Disconnect upload.wikimedia.org:443
+[2019-08-04 19:07:48] [Info] Disconnect www.wikipedia.org:443
+[2019-08-04 19:07:48] [Info] Disconnect wikipedia.org:443
+[2019-08-04 19:07:49] [Info] Connect zh.wikipedia.org:443
+[2019-08-04 19:07:51] [Info] Disconnect zh.wikipedia.org:443
+[2019-08-04 19:07:52] [Info] Connect upload.wikimedia.org:443
+[2019-08-04 19:07:52] [Info] Connect upload.wikimedia.org:443
+[2019-08-04 19:07:52] [Info] Connect upload.wikimedia.org:443
+[2019-08-04 19:07:52] [Info] Connect upload.wikimedia.org:443
+[2019-08-04 19:07:52] [Info] Connect upload.wikimedia.org:443
+[2019-08-04 19:07:52] [Info] Connect upload.wikimedia.org:443
+[2019-08-04 19:07:53] [Info] Connect sb-ssl.google.com:443
+[2019-08-04 19:07:56] [Info] Connect zh.wikipedia.org:443
+[2019-08-04 19:07:56] [Info] Connect meta.wikimedia.org:443
+[2019-08-04 19:07:56] [Info] Connect login.wikimedia.org:443
+[2019-08-04 19:07:58] [Info] Disconnect upload.wikimedia.org:443
+[2019-08-04 19:07:58] [Info] Disconnect updates.tdesktop.com:443
+[2019-08-04 19:07:58] [Info] Disconnect upload.wikimedia.org:443
+[2019-08-04 19:07:58] [Info] Disconnect upload.wikimedia.org:443
+[2019-08-04 19:07:58] [Info] Disconnect upload.wikimedia.org:443
+[2019-08-04 19:07:58] [Info] Disconnect upload.wikimedia.org:443
+[2019-08-04 19:07:59] [Info] Disconnect zh.wikipedia.org:443
+[2019-08-04 19:07:59] [Info] Disconnect zh.wikipedia.org:443
+[2019-08-04 19:07:59] [Info] Disconnect meta.wikimedia.org:443
+[2019-08-04 19:07:59] [Info] Disconnect login.wikimedia.org:443
+[2019-08-04 19:07:59] [Info] Disconnect upload.wikimedia.org:443
+[2019-08-04 19:07:59] [Info] Disconnect sb-ssl.google.com:443
+[2019-08-04 19:08:09] [Info] Connect zh.wikipedia.org:443
+[2019-08-04 19:08:18] [Info] Disconnect zh.wikipedia.org:443
+[2019-08-04 19:08:20] [Info] Connect zh.wikipedia.org:443
+[2019-08-04 19:08:28] [Info] Connect upload.wikimedia.org:443
+[2019-08-04 19:08:30] [Info] Connect zh.wikibooks.org:443
+[2019-08-04 19:08:31] [Info] Connect zh.wikiquote.org:443
+[2019-08-04 19:08:32] [Info] Connect zh.wikinews.org:443
+[2019-08-04 19:08:32] [Info] Connect zh.wikiversity.org:443
+[2019-08-04 19:08:32] [Info] Connect meta.wikimedia.org:443
+[2019-08-04 19:08:32] [Info] Connect zh.wikisource.org:443
+[2019-08-04 19:08:32] [Info] Connect clients1.google.com:443
+[2019-08-04 19:08:33] [Info] Disconnect upload.wikimedia.org:443
+[2019-08-04 19:08:33] [Info] Disconnect zh.wikiversity.org:443
+[2019-08-04 19:08:33] [Info] Disconnect zh.wikisource.org:443
+[2019-08-04 19:08:33] [Info] Disconnect zh.wikibooks.org:443
+[2019-08-04 19:08:33] [Info] Connect meta.wikimedia.org:443
+[2019-08-04 19:08:33] [Info] Connect zh.wikiversity.org:443
+[2019-08-04 19:08:33] [Info] Connect zh.wikibooks.org:443
+[2019-08-04 19:08:33] [Info] Connect zh.wikiquote.org:443
+[2019-08-04 19:08:34] [Info] Disconnect meta.wikimedia.org:443
+[2019-08-04 19:08:34] [Info] Disconnect zh.wikinews.org:443
+[2019-08-04 19:08:34] [Info] Disconnect zh.wikiquote.org:443
+[2019-08-04 19:08:34] [Info] Connect zh.wikinews.org:443
+[2019-08-04 19:08:34] [Info] Connect zh.wikisource.org:443
+[2019-08-04 19:08:34] [Info] Connect upload.wikimedia.org:443
+[2019-08-04 19:08:35] [Info] Connect upload.wikimedia.org:443
+[2019-08-04 19:08:35] [Info] Connect upload.wikimedia.org:443
+[2019-08-04 19:08:35] [Info] Connect upload.wikimedia.org:443
+[2019-08-04 19:08:35] [Info] Connect upload.wikimedia.org:443
+[2019-08-04 19:08:35] [Info] Connect upload.wikimedia.org:443
+[2019-08-04 19:08:38] [Info] Disconnect upload.wikimedia.org:443
+[2019-08-04 19:08:38] [Info] Disconnect upload.wikimedia.org:443
+[2019-08-04 19:08:38] [Info] Disconnect upload.wikimedia.org:443
+[2019-08-04 19:08:38] [Info] Disconnect upload.wikimedia.org:443
+[2019-08-04 19:08:38] [Info] Disconnect upload.wikimedia.org:443
+[2019-08-04 19:08:39] [Info] Disconnect zh.wikisource.org:443
+[2019-08-04 19:08:39] [Info] Disconnect zh.wikibooks.org:443
+[2019-08-04 19:08:39] [Info] Disconnect zh.wikinews.org:443
+[2019-08-04 19:08:39] [Info] Disconnect zh.wikiquote.org:443
+[2019-08-04 19:08:39] [Info] Disconnect zh.wikiversity.org:443
+[2019-08-04 19:08:39] [Info] Disconnect clients1.google.com:443
+[2019-08-04 19:08:39] [Info] Disconnect meta.wikimedia.org:443
+[2019-08-04 19:08:39] [Info] Disconnect zh.wikipedia.org:443
+[2019-08-04 19:08:48] [Info] Disconnect upload.wikimedia.org:443
+[2019-08-04 19:09:05] [Info] Connect zh.wikipedia.org:443
+[2019-08-04 19:09:08] [Info] Disconnect zh.wikipedia.org:443
+[2019-08-04 19:09:23] [Info] Direct connect ad.winrar.com.cn:80
+[2019-08-04 19:09:23] [Info] Direct connect apps.bdimg.com:80
+[2019-08-04 19:09:23] [Info] Direct connect cdn.staticfile.org:443
+[2019-08-04 19:09:23] [Info] Direct connect cdn.staticfile.org:443
+[2019-08-04 19:09:23] [Info] Direct connect apps.bdimg.com:80
+[2019-08-04 19:09:24] [Info] Connect ocsp.digicert.com:80
+[2019-08-04 19:09:24] [Info] Connect ocsp.digicert.com:80
+[2019-08-04 19:09:25] [Info] Connect ocsp1.digicert.com:80
+[2019-08-04 19:09:25] [Info] Connect ocsp1.digicert.com:80
+[2019-08-04 19:09:25] [Info] Disconnect ocsp.digicert.com:80
+[2019-08-04 19:09:25] [Info] Disconnect ocsp.digicert.com:80
+[2019-08-04 19:09:26] [Info] Disconnect ocsp1.digicert.com:80
+[2019-08-04 19:09:27] [Info] Disconnect ocsp1.digicert.com:80
+[2019-08-04 19:09:52] [Info] Connect 149.154.167.51:443
+[2019-08-04 19:09:52] [Info] Connect 149.154.167.51:80
+[2019-08-04 19:09:52] [Info] Connect updates.tdesktop.com:443
+[2019-08-04 19:09:53] [Info] Disconnect 149.154.167.51:80
+[2019-08-04 19:09:54] [Info] Disconnect updates.tdesktop.com:443
+[2019-08-04 19:09:56] [Info] Direct connect wosign-ovca.ocsp-certum.com:80
+[2019-08-04 19:09:56] [Info] Connect crl.microsoft.com:80
+[2019-08-04 19:09:57] [Info] Connect ocsp.msocsp.com:80
+[2019-08-04 19:09:57] [Info] Disconnect crl.microsoft.com:80
+[2019-08-04 19:09:58] [Info] Direct connect wosign-ovca.ocsp-certum.com:80
+[2019-08-04 19:09:58] [Info] Connect subca.ocsp-certum.com:80
+[2019-08-04 19:09:58] [Info] Disconnect ocsp.msocsp.com:80
+[2019-08-04 19:09:58] [Info] Disconnect 149.154.167.51:443
+[2019-08-04 19:09:59] [Info] Connect ocsp.verisign.com:80
+[2019-08-04 19:09:59] [Info] Disconnect subca.ocsp-certum.com:80
+[2019-08-04 19:10:00] [Info] Disconnect ocsp.verisign.com:80
+[2019-08-04 19:10:30] [Info] Connect www.google.com:443
+[2019-08-04 19:10:30] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 19:10:30] [Info] Connect id.google.com:443
+[2019-08-04 19:10:30] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 19:10:30] [Info] Connect apis.google.com:443
+[2019-08-04 19:10:37] [Info] Connect poro.cx:80
+[2019-08-04 19:10:38] [Info] Disconnect poro.cx:80
+[2019-08-04 19:10:38] [Info] Disconnect apis.google.com:443
+[2019-08-04 19:10:38] [Info] Disconnect id.google.com:443
+[2019-08-04 19:10:38] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:39] [Info] Disconnect www.google.com:443
+[2019-08-04 19:10:40] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:40] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:41] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:42] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:42] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:42] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:42] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:42] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:42] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:43] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:43] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:44] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:44] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:44] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:44] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:45] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:45] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:46] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:46] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:46] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:46] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:46] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:46] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:48] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:48] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:48] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:53] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:57] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:59] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:59] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:10:59] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:00] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:01] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:01] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:02] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:02] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:04] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:04] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:04] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:04] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:04] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:04] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:04] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:06] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:06] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:06] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:06] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:06] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:06] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:06] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:06] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:07] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:08] [Info] Connect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:08] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:08] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:09] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:10] [Info] Connect doc.zhushou.site:443
+[2019-08-04 19:11:10] [Info] Connect doc.zhushou.site:443
+[2019-08-04 19:11:11] [Info] Disconnect uinc.ydfqj.loklc.fzb6co0.freepolink.top:80
+[2019-08-04 19:11:13] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-04 19:11:13] [Info] Direct connect cdn.bootcss.com:443
+[2019-08-04 19:11:13] [Info] Direct connect cdn.bootcss.com:443
+[2019-08-04 19:11:14] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-04 19:11:14] [Info] Direct connect ww3.sinaimg.cn:443
+[2019-08-04 19:11:14] [Info] Direct connect ww3.sinaimg.cn:443
+[2019-08-04 19:11:14] [Info] Direct connect ww4.sinaimg.cn:443
+[2019-08-04 19:11:14] [Info] Direct connect ww1.sinaimg.cn:443
+[2019-08-04 19:11:14] [Info] Direct connect ww2.sinaimg.cn:443
+[2019-08-04 19:11:18] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-04 19:11:18] [Info] Disconnect doc.zhushou.site:443
+[2019-08-04 19:11:19] [Info] Direct connect ww3.sinaimg.cn:443
+[2019-08-04 19:11:19] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-04 19:11:19] [Info] Direct connect ww2.sinaimg.cn:443
+[2019-08-04 19:11:28] [Info] Disconnect doc.zhushou.site:443
+[2019-08-04 19:11:51] [Info] Connect fonts.loli.net:443
+[2019-08-04 19:11:51] [Info] Connect sm.ms:443
+[2019-08-04 19:11:54] [Info] Connect sm.ms:443
+[2019-08-04 19:11:58] [Info] Connect clients1.google.com:443
+[2019-08-04 19:11:58] [Info] Disconnect fonts.loli.net:443
+[2019-08-04 19:11:58] [Info] Disconnect sm.ms:443
+[2019-08-04 19:12:08] [Info] Disconnect sm.ms:443
+[2019-08-04 19:12:08] [Info] Disconnect clients1.google.com:443
+[2019-08-04 19:12:41] [Info] Connect sm.ms:443
+[2019-08-04 19:12:41] [Info] Connect sm.ms:443
+[2019-08-04 19:12:48] [Info] Disconnect sm.ms:443
+[2019-08-04 19:12:48] [Info] Disconnect sm.ms:443
+[2019-08-04 19:13:00] [Info] Connect sm.ms:443
+[2019-08-04 19:13:08] [Info] Disconnect sm.ms:443
+[2019-08-04 19:13:21] [Info] Connect sm.ms:443
+[2019-08-04 19:14:04] ShadowsocksR started on port 1080
+[2019-08-04 19:14:12] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 19:14:12] [Info] Connect id.google.com:443
+[2019-08-04 19:14:12] [Info] Connect www.google.com:443
+[2019-08-04 19:14:13] [Info] Connect www.google.com:443
+[2019-08-04 19:14:14] [Info] Connect www.google.com:443
+[2019-08-04 19:14:14] [Info] Connect www.google.com:443
+[2019-08-04 19:14:15] [Info] Connect apis.google.com:443
+[2019-08-04 19:14:15] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 19:14:15] [Info] Connect www.google.com:443
+[2019-08-04 19:14:15] [Info] Connect www.google.com:443
+[2019-08-04 19:14:15] [Info] Connect youtube.com:80
+[2019-08-04 19:14:15] [Info] Connect raw.githubusercontent.com:443
+[2019-08-04 19:14:17] [Info] Connect youtube.com:443
+[2019-08-04 19:14:17] [Info] Disconnect youtube.com:80
+[2019-08-04 19:14:17] [Info] Connect id.google.com:443
+[2019-08-04 19:14:18] [Error] connect to update server error
+[2019-08-04 19:14:18] [Info] Disconnect apis.google.com:443
+[2019-08-04 19:14:18] [Info] Disconnect www.google.com:443
+[2019-08-04 19:14:18] [Info] Disconnect www.google.com:443
+[2019-08-04 19:14:18] [Info] Disconnect www.google.com:443
+[2019-08-04 19:14:19] [Info] Disconnect www.google.com:443
+[2019-08-04 19:14:19] [Info] Disconnect www.google.com:443
+[2019-08-04 19:14:20] [Info] Connect www.google.com:443
+[2019-08-04 19:14:20] [Info] Connect www.youtube.com:443
+[2019-08-04 19:14:21] [Info] Connect sm.ms:443
+[2019-08-04 19:14:22] [Info] Connect id.google.com:443
+[2019-08-04 19:14:23] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-04 19:14:23] [Info] Connect yt3.ggpht.com:443
+[2019-08-04 19:14:23] [Info] Connect yt3.ggpht.com:443
+[2019-08-04 19:14:23] [Info] Connect i.ytimg.com:443
+[2019-08-04 19:14:24] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-04 19:14:24] [Info] Disconnect id.google.com:443
+[2019-08-04 19:14:28] [Info] Disconnect www.google.com:443
+[2019-08-04 19:14:28] [Info] Disconnect youtube.com:443
+[2019-08-04 19:14:28] [Info] Disconnect yt3.ggpht.com:443
+[2019-08-04 19:14:28] [Info] Disconnect sm.ms:443
+[2019-08-04 19:14:29] [Info] Connect s.ytimg.com:443
+[2019-08-04 19:14:29] [Info] Disconnect i.ytimg.com:443
+[2019-08-04 19:14:29] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 19:14:29] [Info] Connect i.ytimg.com:443
+[2019-08-04 19:14:30] [Info] Connect i.ytimg.com:443
+[2019-08-04 19:14:38] [Info] Disconnect yt3.ggpht.com:443
+[2019-08-04 19:14:38] [Info] Disconnect s.ytimg.com:443
+[2019-08-04 19:14:38] [Info] Disconnect i.ytimg.com:443
+[2019-08-04 19:14:44] [Info] Connect sm.ms:443
+[2019-08-04 19:14:46] [Info] Connect accounts.google.com:443
+[2019-08-04 19:14:46] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-04 19:14:46] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-04 19:14:47] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-08-04 19:14:48] [Info] Disconnect i.ytimg.com:443
+[2019-08-04 19:14:48] [Info] Disconnect sm.ms:443
+[2019-08-04 19:14:48] [Info] Disconnect www.youtube.com:443
+[2019-08-04 19:14:49] [Info] Connect www.youtube.com:443
+[2019-08-04 19:14:49] [Info] Connect s.ytimg.com:443
+[2019-08-04 19:14:50] [Info] Connect www.google.com:443
+[2019-08-04 19:14:50] [Info] Connect s.ytimg.com:443
+[2019-08-04 19:14:50] [Info] Connect www.youtube.com:443
+[2019-08-04 19:14:58] [Info] Disconnect s.ytimg.com:443
+[2019-08-04 19:14:58] [Info] Disconnect accounts.google.com:443
+[2019-08-04 19:14:58] [Info] Disconnect www.youtube.com:443
+[2019-08-04 19:14:58] [Info] Disconnect www.google.com:443
+[2019-08-04 19:14:59] [Info] Connect sm.ms:443
+[2019-08-04 19:15:08] [Info] Disconnect sm.ms:443
+[2019-08-04 19:15:08] [Info] Disconnect s.ytimg.com:443
+[2019-08-04 19:15:08] [Info] Disconnect www.youtube.com:443
+[2019-08-04 19:15:18] [Info] Connect sm.ms:443
+[2019-08-04 19:15:18] [Info] Connect fonts.loli.net:443
+[2019-08-04 19:15:19] [Info] Connect www.youtube.com:443
+[2019-08-04 19:15:19] [Info] Connect yt3.ggpht.com:443
+[2019-08-04 19:15:19] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 19:15:20] [Info] Connect i.ytimg.com:443
+[2019-08-04 19:15:20] [Info] Connect www.youtube.com:443
+[2019-08-04 19:15:20] [Info] Connect i.ytimg.com:443
+[2019-08-04 19:15:20] [Info] Connect i.ytimg.com:443
+[2019-08-04 19:15:20] [Info] Connect i.ytimg.com:443
+[2019-08-04 19:15:20] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-04 19:15:20] [Info] Connect i.ytimg.com:443
+[2019-08-04 19:15:21] [Info] Connect i.ytimg.com:443
+[2019-08-04 19:15:26] [Info] Direct connect 36.99.30.173:80
+[2019-08-04 19:15:28] [Info] Disconnect fonts.loli.net:443
+[2019-08-04 19:15:28] [Info] Disconnect i.ytimg.com:443
+[2019-08-04 19:15:28] [Info] Disconnect i.ytimg.com:443
+[2019-08-04 19:15:28] [Info] Disconnect i.ytimg.com:443
+[2019-08-04 19:15:29] [Info] Disconnect i.ytimg.com:443
+[2019-08-04 19:15:29] [Info] Disconnect i.ytimg.com:443
+[2019-08-04 19:15:29] [Info] Disconnect www.youtube.com:443
+[2019-08-04 19:15:29] [Info] Disconnect yt3.ggpht.com:443
+[2019-08-04 19:15:29] [Info] Disconnect i.ytimg.com:443
+[2019-08-04 19:15:29] [Info] Disconnect sm.ms:443
+[2019-08-04 19:15:31] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 19:15:31] [Info] Connect clients1.google.com:443
+[2019-08-04 19:15:32] [Info] Connect i.ytimg.com:443
+[2019-08-04 19:15:38] [Info] Disconnect i.ytimg.com:443
+[2019-08-04 19:15:38] [Info] Disconnect www.youtube.com:443
+[2019-08-04 19:15:38] [Info] Disconnect clients1.google.com:443
+[2019-08-04 19:15:41] [Info] Direct connect www.gstatic.com:443
+[2019-08-04 19:15:41] [Info] Connect www.google.com:443
+[2019-08-04 19:15:41] [Info] Connect id.google.com:443
+[2019-08-04 19:15:41] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-04 19:15:41] [Info] Connect apis.google.com:443
+[2019-08-04 19:15:42] [Info] Connect www.google.com:443
+[2019-08-04 19:15:42] [Info] Connect www.google.com:443
+[2019-08-04 19:15:43] [Info] Connect www.google.com:443
+[2019-08-04 19:15:43] [Info] Connect www.google.com:443
+[2019-08-04 19:15:43] [Info] Connect www.google.com:443
+[2019-08-04 19:15:48] [Info] Disconnect apis.google.com:443
+[2019-08-04 19:15:48] [Info] Disconnect www.google.com:443
+[2019-08-04 19:15:48] [Info] Disconnect www.google.com:443
+[2019-08-04 19:15:48] [Info] Disconnect www.google.com:443
+[2019-08-04 19:15:48] [Info] Disconnect www.google.com:443
+[2019-08-04 19:15:48] [Info] Disconnect www.google.com:443
+[2019-08-04 19:15:49] [Info] Direct connect www.126.com:443
+[2019-08-04 19:15:49] [Info] Direct connect www.126.com:443
+[2019-08-04 19:15:49] [Info] Connect 9a2ecc46-pqxx7vb7bfrpxmh6-c2r-ds.metric.gstatic.com:443
+[2019-08-04 19:15:52] [Info] Direct connect adservice.google.com:443
+[2019-08-04 19:15:53] [Info] Direct connect mimg.127.net:443
+[2019-08-04 19:15:53] [Info] Direct connect mimg.127.net:443
+[2019-08-04 19:15:53] [Info] Direct connect mimg.127.net:443
+[2019-08-04 19:15:53] [Info] Direct connect mimg.127.net:443
+[2019-08-04 19:15:53] [Info] Direct connect mimg.127.net:443
+[2019-08-04 19:15:53] [Info] Direct connect urswebzj.nosdn.127.net:443
+[2019-08-04 19:15:53] [Info] Direct connect dl.reg.163.com:443
+[2019-08-04 19:15:53] [Info] Direct connect reg.163.com:443
+[2019-08-04 19:15:54] [Info] Direct connect irpmt.mail.163.com:443
+[2019-08-04 19:15:54] [Info] Direct connect passport.126.com:443
+[2019-08-04 19:15:54] [Info] Direct connect q.reg.163.com:443
+[2019-08-04 19:15:54] [Info] Direct connect ir3.mail.163.com:443
+[2019-08-04 19:15:54] [Info] Direct connect urswebzj.nosdn.127.net:443
+[2019-08-04 19:15:54] [Info] Direct connect ir.mail.126.com:443
+[2019-08-04 19:15:54] [Info] Direct connect market-adlog.kaola.com:443
+[2019-08-04 19:15:56] [Info] Direct connect irpmt.mail.163.com:443
+[2019-08-04 19:15:56] [Info] Direct connect countly.mail.163.com:443
+[2019-08-04 19:15:56] [Info] Direct connect cstaticdun.126.net:443
+[2019-08-04 19:15:56] [Info] Direct connect mail.163.com:443
+[2019-08-04 19:15:56] [Info] Direct connect webzj.reg.163.com:443
+[2019-08-04 19:15:58] [Info] Direct connect fl.reg.163.com:443
+[2019-08-04 19:15:58] [Info] Connect clients1.google.com:443
+[2019-08-04 19:15:58] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-04 19:15:58] [Info] Disconnect id.google.com:443
+[2019-08-04 19:15:59] [Info] Disconnect 9a2ecc46-pqxx7vb7bfrpxmh6-c2r-ds.metric.gstatic.com:443
+[2019-08-04 19:15:59] [Info] Disconnect www.google.com:443
+[2019-08-04 19:16:04] [Info] Direct connect passport.126.com:443
+[2019-08-04 19:16:04] [Info] Direct connect mimg.127.net:443
+[2019-08-04 19:16:04] [Info] Direct connect cstaticdun.126.net:443
+[2019-08-04 19:16:04] [Info] Direct connect webzjcaptcha.reg.163.com:443
+[2019-08-04 19:16:04] [Info] Direct connect cstaticdun.126.net:443
+[2019-08-04 19:16:04] [Info] Direct connect necaptcha.nosdn.127.net:443
+[2019-08-04 19:16:08] [Info] Disconnect clients1.google.com:443
+[2019-08-04 19:16:11] [Info] Direct connect passport.126.com:443
+[2019-08-04 19:16:11] [Info] Direct connect mail.126.com:443
+[2019-08-04 19:16:11] [Info] Direct connect mail.126.com:443
+[2019-08-04 19:16:11] [Info] Direct connect mimg.127.net:443
+[2019-08-04 19:16:11] [Info] Direct connect mimg.127.net:443
+[2019-08-04 19:16:11] [Info] Direct connect mimg.127.net:443
+[2019-08-04 19:16:11] [Info] Direct connect mimg.127.net:443
+[2019-08-04 19:16:12] [Info] Direct connect mimg.127.net:443
+[2019-08-04 19:16:12] [Info] Direct connect mimg.127.net:443
+[2019-08-04 19:16:12] [Info] Direct connect appconf.mail.163.com:443
+[2019-08-04 19:16:12] [Info] Direct connect mail.163.com:443
+[2019-08-04 19:16:12] [Info] Direct connect config.mail.126.com:443
+[2019-08-04 19:16:12] [Info] Direct connect you.163.com:443
+[2019-08-04 19:16:12] [Info] Direct connect you.163.com:443
+[2019-08-04 19:16:12] [Info] Direct connect you.163.com:443
+[2019-08-04 19:16:13] [Info] Direct connect ir.mail.126.com:443
+[2019-08-04 19:16:13] [Info] Direct connect smartflow.mail.163.com:443
+[2019-08-04 19:16:13] [Info] Direct connect weather.mail.163.com:443
+[2019-08-04 19:16:13] [Info] Direct connect yanxuan.nosdn.127.net:443
+[2019-08-04 19:16:13] [Info] Direct connect yanxuan.nosdn.127.net:443
+[2019-08-04 19:16:13] [Info] Direct connect yanxuan.nosdn.127.net:443
+[2019-08-04 19:16:13] [Info] Direct connect yanxuan.nosdn.127.net:443
+[2019-08-04 19:16:13] [Info] Direct connect yanxuan-item.nosdn.127.net:443
+[2019-08-04 19:16:13] [Info] Direct connect yanxuan-item.nosdn.127.net:443
+[2019-08-04 19:16:14] [Info] Direct connect mail.163.com:443
+[2019-08-04 19:16:14] [Info] Direct connect smartflow.mail.163.com:443
+[2019-08-04 19:16:14] [Info] Direct connect smartflow.mail.163.com:443
+[2019-08-04 19:16:14] [Info] Direct connect smartflow.mail.163.com:443
+[2019-08-04 19:16:14] [Info] Direct connect smartflow.mail.163.com:443
+[2019-08-04 19:16:14] [Info] Direct connect stat.mail.163.com:443
+[2019-08-04 19:16:14] [Info] Direct connect goods.you.163.com:443
+[2019-08-04 19:16:14] [Info] Direct connect smartflow.mail.163.com:443
+[2019-08-04 19:16:14] [Info] Direct connect mail.163.com:443
+[2019-08-04 19:16:14] [Info] Direct connect irpmt.mail.163.com:443
+[2019-08-04 19:16:14] [Info] Direct connect mail.163.com:443
+[2019-08-04 19:16:14] [Info] Direct connect irpmt.mail.163.com:443
+[2019-08-04 19:16:14] [Info] Direct connect irpmt.mail.163.com:443
+[2019-08-04 19:16:15] [Info] Connect clients1.google.com:443
+[2019-08-04 19:16:15] [Info] Direct connect irpmt.mail.163.com:443
+[2019-08-04 19:16:15] [Info] Direct connect irpmt.mail.163.com:443
+[2019-08-04 19:16:15] [Info] Direct connect irpmt.mail.163.com:443
+[2019-08-04 19:16:15] [Info] Direct connect dc.ts.163.com:443
+[2019-08-04 19:16:15] [Info] Direct connect mail.126.com:443
+[2019-08-04 19:16:15] [Info] Direct connect mail.126.com:443
+[2019-08-04 19:16:16] [Info] Direct connect oimageb8.ydstatic.com:80
+[2019-08-04 19:16:16] [Info] Direct connect log.yex.youdao.com:80
+[2019-08-04 19:16:16] [Info] Direct connect music.163.com:443
+[2019-08-04 19:16:16] [Info] Direct connect s2.music.126.net:443
+[2019-08-04 19:16:16] [Info] Direct connect s2.music.126.net:443
+[2019-08-04 19:16:16] [Info] Direct connect s3.music.126.net:443
+[2019-08-04 19:16:16] [Info] Direct connect s3.music.126.net:443
+[2019-08-04 19:16:17] [Info] Direct connect s5.music.126.net:443
+[2019-08-04 19:16:17] [Info] Direct connect acstatic-dun.126.net:443
+[2019-08-04 19:16:17] [Info] Direct connect mail.126.com:443
+[2019-08-04 19:16:17] [Info] Direct connect mail.126.com:443
+[2019-08-04 19:16:17] [Info] Direct connect ac.dun.163yun.com:443
+[2019-08-04 19:16:18] [Info] Direct connect acstatic-dun.126.net:443
+[2019-08-04 19:16:18] [Info] Direct connect log.yex.youdao.com:80
+[2019-08-04 19:16:18] [Info] Connect tracking.email.sb:80
+[2019-08-04 19:16:18] [Info] Direct connect ac.dun.163yun.com:443
+[2019-08-04 19:16:18] [Info] Direct connect sr.mail.163.com:443
+[2019-08-04 19:16:19] [Info] Disconnect clients1.google.com:443
+[2019-08-04 19:16:20] [Info] Direct connect smartflow.mail.163.com:443
+[2019-08-04 19:16:20] [Info] Disconnect tracking.email.sb:80
+[2019-08-04 19:16:20] [Info] Direct connect sp0.baidu.com:443
+[2019-08-04 19:16:20] [Info] Direct connect s.360.cn:443
+[2019-08-04 19:16:20] [Info] Direct connect log.yex.youdao.com:80
+[2019-08-04 19:16:20] [Info] Direct connect oimagec5.ydstatic.com:80
+[2019-08-04 19:16:21] [Info] Direct connect mail.126.com:443
+[2019-08-04 19:16:23] [Info] Connect tracking.email.sb:80
+[2019-08-04 19:16:25] [Info] Connect sm.ms:443
+[2019-08-04 19:16:25] [Info] Disconnect tracking.email.sb:80
+[2019-08-04 19:16:33] [Info] Connect fonts.loli.net:443
+[2019-08-04 19:16:43] [Info] Connect sm.ms:443
+[2019-08-04 19:16:43] [Info] Connect fonts.loli.net:443
+[2019-08-04 19:16:43] [Info] Disconnect fonts.loli.net:443
+[2019-08-04 19:16:43] [Info] Disconnect sm.ms:443
+[2019-08-04 19:16:46] [Info] Direct connect clientservices.googleapis.com:443
+[2019-08-04 19:16:53] [Info] Disconnect fonts.loli.net:443
+[2019-08-04 19:16:59] [Info] Connect fonts.loli.net:443
+[2019-08-04 19:17:03] [Info] Disconnect fonts.loli.net:443
+[2019-08-04 19:17:09] [Info] Connect fonts.loli.net:443
+[2019-08-04 19:17:10] [Info] Connect gravatar.loli.net:443
+[2019-08-04 19:17:13] [Info] Disconnect fonts.loli.net:443
+[2019-08-04 19:17:14] [Info] Connect gstatic.loli.net:443
+[2019-08-04 19:17:14] [Info] Connect gstatic.loli.net:443
+[2019-08-04 19:17:23] [Info] Disconnect gstatic.loli.net:443
+[2019-08-04 19:17:23] [Info] Disconnect gstatic.loli.net:443
+[2019-08-04 19:17:24] [Info] Disconnect gravatar.loli.net:443
+[2019-08-04 19:17:24] [Info] Disconnect sm.ms:443
