@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
+#pragma GCC optimize (2)
 using namespace std;
-const int maxn = 5e3+5;
+const int maxn = 1e4+5;
 int dp[maxn][maxn],val[maxn],gdd[maxn],cnt=0;
 int find1(int x)
 {
