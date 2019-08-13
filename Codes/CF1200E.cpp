@@ -1,57 +1,38 @@
 #include<bits/stdc++.h>
-using namespace std;
-const int maxn = 1e6+5;
+using namespace std; 
+const int maxn=1e6+5;
+const int lim=1e6;
+const int mod=(1e7+19)*43;
+const int ms=79;
+int n,len=0,p,p1;
+int hsh1[maxn],hsh2[maxn],jz[maxn]={1};
 char ans[maxn],ch[maxn];
-signed main()
+bool check(int x) 
 {
-    int n;
-    scanf("%d",&n);
-    int alen=strlen(ans+1);
-    for(int ti=1;ti<=n;ti++)
-    {
-        cin>>(ch+1);
-        int len=strlen(ch+1);
-        if(!alen)
-        {
-            for(int i=1;i<=len;i++)
-                ans[i]=ch[i];
-            alen=len;
-            continue;
-        }
-        int ap=max(1,alen-len+1),cp=1,fin=0;
-        for(int i=0;i<min(len,alen);i++,ap++)
-        {
-            if(ans[ap]!=ch[cp])
-                continue;
-            int flg=1;
-            for(int j=0;j<min(len-i,alen-i);j++)
-            {
-                if(ans[ap+j]!=ch[cp+j])
-                {
-                    flg=0;
-                    break;
-                }
-            }
-            if(flg)
-            {
-                for(int j=1;j<len;j++)
-                    ans[ap+j]=ch[cp+j];
-                fin=1;
-                alen=max(alen+i,len);
-                break;
-            }
-        }
-        if(!fin)
-        {
-            ap=alen;
-            for(int i=1;i<=len;i++)
-                ans[ap+i]=ch[i];
-            alen+=len;
-        }
-//        printf("%d\n",alen);
-//        cout<<ans+1<<endl;
-//        for(int i=1;i<=len;i++)
-//        	ch[i]='\0';
-    }
-    cout<<ans+1<<endl;
+	int hs1=((hsh1[p1]-1ll*hsh1[p1-x]*jz[x])%mod+mod)%mod;
+	int hs2=hsh2[x];
+	return hs1==hs2;
+}
+signed main() 
+{
+	scanf("%d",&n);
+	for(int i=1;i<=lim;i++)
+		jz[i]=1ll*jz[i-1]*ms%mod;
+	for(int i=1;i<=n;i++) 
+	{
+		scanf("%s",ch+1);
+		len=strlen(ch+1);
+		for(int j=1;j<=len;j++)
+			hsh2[j]=(1ll*hsh2[j-1]*ms+ch[j]-'0'+1)%mod;
+		for(p=len;p;p--) 
+			if(p1>=p&&check(p))
+				break;
+		for(int j=p+1;j<=len;j++)
+		{
+			ans[++p1]=ch[j];
+			hsh1[p1]=(1ll*hsh1[p1-1]*ms+ch[j]-'0'+1)%mod;
+		}
+	}
+	printf("%s",ans+1);
+	return 0;
 }

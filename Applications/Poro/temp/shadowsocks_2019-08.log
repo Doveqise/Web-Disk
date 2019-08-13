@@ -38833,3 +38833,1622 @@
 [2019-08-12 08:14:10] [Info] Connect clients2.google.com:443
 [2019-08-12 08:14:13] [Info] Connect clients2.google.com:443
 [2019-08-12 08:14:21] [Info] Disconnect clients2.google.com:443
+[2019-08-13 18:41:24] ShadowsocksR started on port 1080
+[2019-08-13 18:41:30] [Info] Connect clients1.google.com:443
+[2019-08-13 18:41:30] [Info] Connect images.google.com.hk:80
+[2019-08-13 18:41:33] [Info] Connect raw.githubusercontent.com:443
+[2019-08-13 18:41:33] [Info] Connect images.google.com.hk:443
+[2019-08-13 18:41:34] [Info] Disconnect images.google.com.hk:80
+[2019-08-13 18:41:36] [Info] Direct connect www.baidu.com:443
+[2019-08-13 18:41:36] [Info] Direct connect www.baidu.com:443
+[2019-08-13 18:41:36] [Info] Connect images.google.com.hk:80
+[2019-08-13 18:41:37] [Info] Connect raw.githubusercontent.com:443
+[2019-08-13 18:41:38] [Info] Disconnect images.google.com.hk:80
+[2019-08-13 18:41:38] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-13 18:41:39] [Info] Direct connect www.gstatic.com:443
+[2019-08-13 18:41:39] [Info] Direct connect www.gstatic.com:443
+[2019-08-13 18:41:39] [Info] Connect raw.githubusercontent.com:443
+[2019-08-13 18:41:40] [Info] Connect ogs.google.com:443
+[2019-08-13 18:41:41] [Info] Connect adservice.google.com.hk:443
+[2019-08-13 18:41:43] [Error] connect to update server error
+[2019-08-13 18:41:43] [Info] Disconnect ogs.google.com:443
+[2019-08-13 18:41:43] [Info] Disconnect clients1.google.com:443
+[2019-08-13 18:41:43] [Info] Disconnect images.google.com.hk:443
+[2019-08-13 18:41:47] [Info] Connect images.google.com.hk:443
+[2019-08-13 18:41:47] [Info] Direct connect www.gstatic.com:443
+[2019-08-13 18:41:47] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-13 18:41:47] [Info] Connect apis.google.com:443
+[2019-08-13 18:41:51] [Info] Connect www.google.com.hk:443
+[2019-08-13 18:41:53] [Info] Disconnect apis.google.com:443
+[2019-08-13 18:41:53] [Info] Disconnect images.google.com.hk:443
+[2019-08-13 18:41:53] [Info] Disconnect adservice.google.com.hk:443
+[2019-08-13 18:41:54] [Info] Connect lh3.googleusercontent.com:443
+[2019-08-13 18:41:54] [Info] Connect encrypted-tbn3.gstatic.com:443
+[2019-08-13 18:41:54] [Info] Connect encrypted-tbn3.gstatic.com:443
+[2019-08-13 18:41:54] [Info] Connect encrypted-tbn3.gstatic.com:443
+[2019-08-13 18:41:54] [Info] Connect id.google.com.hk:443
+[2019-08-13 18:41:54] [Info] Connect lh3.googleusercontent.com:443
+[2019-08-13 18:41:55] [Info] Connect ogs.google.com:443
+[2019-08-13 18:41:55] [Info] Disconnect encrypted-tbn3.gstatic.com:443
+[2019-08-13 18:41:55] [Info] Disconnect encrypted-tbn3.gstatic.com:443
+[2019-08-13 18:41:55] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-08-13 18:41:55] [Info] Connect id.google.com:443
+[2019-08-13 18:41:56] [Info] Connect clients1.google.com:443
+[2019-08-13 18:41:58] [Info] Connect adservice.google.com.hk:443
+[2019-08-13 18:41:58] [Info] Connect clients1.google.com:443
+[2019-08-13 18:41:59] [Info] Direct connect adservice.google.com:443
+[2019-08-13 18:41:59] [Info] Disconnect clients1.google.com:443
+[2019-08-13 18:41:59] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-08-13 18:42:02] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-13 18:42:02] [Info] Direct connect www.gstatic.com:443
+[2019-08-13 18:42:02] [Info] Connect apis.google.com:443
+[2019-08-13 18:42:03] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-08-13 18:42:03] [Info] Disconnect encrypted-tbn3.gstatic.com:443
+[2019-08-13 18:42:03] [Info] Disconnect clients1.google.com:443
+[2019-08-13 18:42:03] [Info] Disconnect id.google.com.hk:443
+[2019-08-13 18:42:03] [Info] Disconnect adservice.google.com.hk:443
+[2019-08-13 18:42:03] [Info] Disconnect ogs.google.com:443
+[2019-08-13 18:42:03] [Info] Disconnect id.google.com:443
+[2019-08-13 18:42:03] [Info] Direct connect www.gstatic.com:443
+[2019-08-13 18:42:06] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:42:08] [Info] Disconnect www.google.com.hk:443
+[2019-08-13 18:42:08] [Info] Disconnect apis.google.com:443
+[2019-08-13 18:42:08] [Info] Connect codeforces.com:80
+[2019-08-13 18:42:09] [Info] Disconnect codeforces.com:80
+[2019-08-13 18:42:10] [Info] Connect clients1.google.com:443
+[2019-08-13 18:42:11] [Info] Connect www.google.com.hk:443
+[2019-08-13 18:42:12] [Info] Connect scontent-sea1-1.cdninstagram.com:443
+[2019-08-13 18:42:12] [Info] Direct connect www.gstatic.com:443
+[2019-08-13 18:42:13] [Info] Connect id.google.com.hk:443
+[2019-08-13 18:42:13] [Info] Disconnect clients1.google.com:443
+[2019-08-13 18:42:13] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:42:15] [Info] Connect id.google.com:443
+[2019-08-13 18:42:18] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-08-13 18:42:23] [Info] Disconnect scontent-sea1-1.cdninstagram.com:443
+[2019-08-13 18:42:23] [Info] Disconnect www.google.com.hk:443
+[2019-08-13 18:42:23] [Info] Disconnect id.google.com:443
+[2019-08-13 18:42:23] [Info] Disconnect id.google.com.hk:443
+[2019-08-13 18:42:25] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-13 18:42:25] [Info] Direct connect www.gstatic.com:443
+[2019-08-13 18:42:25] [Info] Connect www.google.com.hk:443
+[2019-08-13 18:42:25] [Info] Connect apis.google.com:443
+[2019-08-13 18:42:25] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:42:25] [Info] Connect www.google.com:443
+[2019-08-13 18:42:30] [Info] Connect lh3.googleusercontent.com:443
+[2019-08-13 18:42:30] [Info] Connect lh3.googleusercontent.com:443
+[2019-08-13 18:42:31] [Info] Connect ogs.google.com:443
+[2019-08-13 18:42:31] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-08-13 18:42:33] [Info] Disconnect apis.google.com:443
+[2019-08-13 18:42:33] [Info] Disconnect www.google.com.hk:443
+[2019-08-13 18:42:33] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-08-13 18:42:33] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:42:34] [Info] Direct connect adservice.google.com:443
+[2019-08-13 18:42:38] [Info] Disconnect www.google.com:443
+[2019-08-13 18:42:38] [Info] Disconnect ogs.google.com:443
+[2019-08-13 18:42:40] [Info] Connect www.google.com:443
+[2019-08-13 18:42:40] [Info] Direct connect www.taobao.com:443
+[2019-08-13 18:42:40] [Info] Connect www.google.com:443
+[2019-08-13 18:42:40] [Info] Direct connect www.taobao.com:443
+[2019-08-13 18:42:41] [Info] Disconnect www.google.com:443
+[2019-08-13 18:42:42] [Info] Direct connect g.alicdn.com:443
+[2019-08-13 18:42:42] [Info] Direct connect img.alicdn.com:443
+[2019-08-13 18:42:42] [Info] Direct connect g.alicdn.com:443
+[2019-08-13 18:42:42] [Info] Direct connect gm.mmstat.com:443
+[2019-08-13 18:42:42] [Info] Direct connect gw.alicdn.com:443
+[2019-08-13 18:42:42] [Info] Direct connect gtms04.alicdn.com:443
+[2019-08-13 18:42:43] [Info] Direct connect at.alicdn.com:443
+[2019-08-13 18:42:43] [Info] Direct connect g.alicdn.com:443
+[2019-08-13 18:42:43] [Info] Connect clients1.google.com:443
+[2019-08-13 18:42:43] [Info] Direct connect log.mmstat.com:443
+[2019-08-13 18:42:43] [Info] Direct connect gw.alicdn.com:443
+[2019-08-13 18:42:43] [Info] Direct connect img.alicdn.com:443
+[2019-08-13 18:42:47] [Info] Direct connect tmatch.simba.taobao.com:443
+[2019-08-13 18:42:47] [Info] Direct connect cart.taobao.com:443
+[2019-08-13 18:42:47] [Info] Direct connect gm.mmstat.com:443
+[2019-08-13 18:42:47] [Info] Direct connect wwc.alicdn.com:443
+[2019-08-13 18:42:47] [Info] Direct connect ald.taobao.com:443
+[2019-08-13 18:42:47] [Info] Connect h5api-intl.m.taobao.com:443
+[2019-08-13 18:42:47] [Info] Direct connect ws.mmstat.com:443
+[2019-08-13 18:42:47] [Info] Direct connect fourier.alibaba.com:443
+[2019-08-13 18:42:47] [Info] Direct connect tmall-rmc.alicdn.com:443
+[2019-08-13 18:42:47] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-13 18:42:47] [Info] Connect apis.google.com:443
+[2019-08-13 18:42:47] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:42:47] [Info] Connect lh3.googleusercontent.com:443
+[2019-08-13 18:42:47] [Info] Direct connect www.gstatic.com:443
+[2019-08-13 18:42:47] [Info] Connect encrypted-tbn3.gstatic.com:443
+[2019-08-13 18:42:48] [Info] Disconnect clients1.google.com:443
+[2019-08-13 18:42:48] [Info] Disconnect www.google.com:443
+[2019-08-13 18:42:49] [Info] Connect www.google.com:443
+[2019-08-13 18:42:49] [Info] Connect www.google.com:443
+[2019-08-13 18:42:50] [Info] Connect www.google.com:443
+[2019-08-13 18:42:50] [Info] Connect www.google.com:443
+[2019-08-13 18:42:50] [Info] Connect www.google.com:443
+[2019-08-13 18:42:50] [Info] Connect www.google.com.hk:443
+[2019-08-13 18:42:51] [Info] Disconnect www.google.com:443
+[2019-08-13 18:42:51] [Info] Disconnect www.google.com:443
+[2019-08-13 18:42:51] [Info] Disconnect www.google.com:443
+[2019-08-13 18:42:51] [Info] Disconnect www.google.com:443
+[2019-08-13 18:42:52] [Info] Direct connect adservice.google.com:443
+[2019-08-13 18:42:52] [Debug] DNS query fail: adservice.google.cn
+[2019-08-13 18:42:52] [Info] Connect adservice.google.cn:443
+[2019-08-13 18:42:53] [Info] Disconnect apis.google.com:443
+[2019-08-13 18:42:53] [Info] Disconnect www.google.com:443
+[2019-08-13 18:42:53] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:42:53] [Info] Disconnect encrypted-tbn3.gstatic.com:443
+[2019-08-13 18:42:53] [Info] Disconnect www.google.com.hk:443
+[2019-08-13 18:42:53] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-08-13 18:42:53] [Info] Disconnect h5api-intl.m.taobao.com:443
+[2019-08-13 18:42:55] [Info] Disconnect adservice.google.cn:443
+[2019-08-13 18:42:56] [Info] Connect www.google.com:443
+[2019-08-13 18:42:56] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-13 18:42:56] [Info] Direct connect www.gstatic.com:443
+[2019-08-13 18:42:56] [Info] Connect apis.google.com:443
+[2019-08-13 18:42:56] [Info] Connect lh3.googleusercontent.com:443
+[2019-08-13 18:42:56] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:42:56] [Info] Connect encrypted-tbn3.gstatic.com:443
+[2019-08-13 18:42:57] [Info] Connect www.google.com:443
+[2019-08-13 18:42:58] [Info] Connect www.google.com:443
+[2019-08-13 18:42:58] [Info] Disconnect www.google.com:443
+[2019-08-13 18:42:58] [Info] Disconnect www.google.com:443
+[2019-08-13 18:43:03] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:43:03] [Info] Disconnect encrypted-tbn3.gstatic.com:443
+[2019-08-13 18:43:03] [Info] Disconnect apis.google.com:443
+[2019-08-13 18:43:03] [Debug] DNS query fail: adservice.google.cn
+[2019-08-13 18:43:03] [Info] Connect adservice.google.cn:443
+[2019-08-13 18:43:04] [Info] Disconnect adservice.google.cn:443
+[2019-08-13 18:43:08] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-08-13 18:43:08] [Info] Disconnect www.google.com:443
+[2019-08-13 18:43:12] [Info] Connect www.google.com:443
+[2019-08-13 18:43:12] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-13 18:43:12] [Info] Connect apis.google.com:443
+[2019-08-13 18:43:12] [Info] Connect lh3.googleusercontent.com:443
+[2019-08-13 18:43:12] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:43:12] [Info] Connect encrypted-tbn3.gstatic.com:443
+[2019-08-13 18:43:12] [Info] Direct connect www.gstatic.com:443
+[2019-08-13 18:43:12] [Info] Connect www.google.com:443
+[2019-08-13 18:43:13] [Info] Disconnect www.google.com:443
+[2019-08-13 18:43:14] [Info] Connect encrypted-tbn1.gstatic.com:443
+[2019-08-13 18:43:14] [Info] Connect encrypted-tbn1.gstatic.com:443
+[2019-08-13 18:43:16] [Info] Disconnect encrypted-tbn1.gstatic.com:443
+[2019-08-13 18:43:16] [Info] Direct connect adservice.google.com:443
+[2019-08-13 18:43:18] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-08-13 18:43:18] [Info] Disconnect encrypted-tbn1.gstatic.com:443
+[2019-08-13 18:43:18] [Info] Disconnect apis.google.com:443
+[2019-08-13 18:43:18] [Info] Disconnect www.google.com:443
+[2019-08-13 18:43:18] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:43:18] [Info] Disconnect encrypted-tbn3.gstatic.com:443
+[2019-08-13 18:43:20] [Info] Connect www.google.com:443
+[2019-08-13 18:43:23] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-13 18:43:25] [Info] Direct connect www.gstatic.com:443
+[2019-08-13 18:43:25] [Info] Connect www.google.com.hk:443
+[2019-08-13 18:43:25] [Info] Connect www.google.com.hk:443
+[2019-08-13 18:43:26] [Info] Disconnect www.google.com.hk:443
+[2019-08-13 18:43:27] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-13 18:43:28] [Info] Disconnect www.google.com:443
+[2019-08-13 18:43:30] [Info] Connect clients1.google.com:443
+[2019-08-13 18:43:31] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:43:32] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:43:32] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:43:32] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:43:32] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:43:32] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:43:33] [Info] Disconnect clients1.google.com:443
+[2019-08-13 18:43:33] [Info] Connect clients1.google.com:443
+[2019-08-13 18:43:33] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:43:33] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:43:33] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:43:33] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:43:33] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:43:38] [Info] Connect www.google.com.hk:443
+[2019-08-13 18:43:38] [Info] Disconnect clients1.google.com:443
+[2019-08-13 18:43:38] [Info] Disconnect www.google.com.hk:443
+[2019-08-13 18:43:43] [Info] Direct connect sp0.baidu.com:443
+[2019-08-13 18:43:43] [Info] Direct connect sp2.baidu.com:443
+[2019-08-13 18:43:43] [Info] Direct connect www.baidu.com:443
+[2019-08-13 18:43:43] [Info] Direct connect www.baidu.com:443
+[2019-08-13 18:43:43] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 18:43:43] [Info] Disconnect www.google.com.hk:443
+[2019-08-13 18:43:43] [Info] Direct connect st.so.com:80
+[2019-08-13 18:43:43] [Info] Direct connect st.so.com:80
+[2019-08-13 18:43:43] [Info] Direct connect st.so.com:80
+[2019-08-13 18:43:43] [Info] Direct connect st.so.com:80
+[2019-08-13 18:43:43] [Info] Direct connect st.so.com:80
+[2019-08-13 18:43:43] [Info] Direct connect p.ssl.qhimg.com:443
+[2019-08-13 18:43:43] [Info] Direct connect p.ssl.qhimg.com:443
+[2019-08-13 18:43:43] [Info] Direct connect s.360.cn:80
+[2019-08-13 18:43:43] [Info] Connect clients1.google.com:443
+[2019-08-13 18:43:44] [Info] Direct connect st.so.com:80
+[2019-08-13 18:43:44] [Info] Direct connect ss1.baidu.com:443
+[2019-08-13 18:43:44] [Info] Direct connect ss2.baidu.com:443
+[2019-08-13 18:43:44] [Info] Direct connect ss0.baidu.com:443
+[2019-08-13 18:43:46] [Info] Direct connect st.so.com:80
+[2019-08-13 18:43:47] [Info] Direct connect st.so.com:80
+[2019-08-13 18:43:47] [Info] Direct connect s7.qhimg.com:80
+[2019-08-13 18:43:47] [Info] Direct connect p1.so.qhmsg.com:80
+[2019-08-13 18:43:47] [Info] Direct connect p1.so.qhmsg.com:80
+[2019-08-13 18:43:47] [Info] Direct connect image.so.com:80
+[2019-08-13 18:43:47] [Info] Direct connect s0.qhimg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p0.qhimg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect s6.qhimg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect s5.qhimg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect s8.qhimg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect s8.qhimg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect s5.qhimg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect st.so.com:80
+[2019-08-13 18:43:48] [Info] Direct connect s.360.cn:80
+[2019-08-13 18:43:48] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p3.so.qhmsg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p3.so.qhmsg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p4.so.qhmsg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p4.so.qhmsg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p.ssl.qhmsg.com:443
+[2019-08-13 18:43:48] [Info] Direct connect p5.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p4.so.qhmsg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p2.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p2.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p2.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p2.so.qhmsg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p2.so.qhmsg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p0.so.qhmsg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p5.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p0.so.qhmsg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p2.so.qhmsg.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p1.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p1.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p5.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p2.so.qhimgs1.com:80
+[2019-08-13 18:43:48] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:49] [Info] Direct connect st.so.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p3.so.qhmsg.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p2.so.qhimgs1.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p1.so.qhmsg.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p2.so.qhimgs1.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p1.so.qhmsg.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p1.so.qhmsg.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p0.so.qhmsg.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p1.so.qhimgs1.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p1.so.qhmsg.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p1.so.qhmsg.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p2.so.qhmsg.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p3.so.qhmsg.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p0.so.qhmsg.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p1.so.qhimgs1.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p1.so.qhmsg.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p3.so.qhmsg.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p3.so.qhimgs1.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p0.so.qhmsg.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p0.so.qhmsg.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p3.so.qhmsg.com:80
+[2019-08-13 18:43:50] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect st.so.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p3.so.qhmsg.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p1.so.qhmsg.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p3.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p2.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p0.so.qhmsg.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p1.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p2.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p3.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p3.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p3.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p3.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p1.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p1.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p3.so.qhmsg.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p2.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p3.so.qhmsg.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p0.so.qhmsg.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p2.so.qhmsg.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p2.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p2.so.qhimgs1.com:80
+[2019-08-13 18:43:51] [Info] Direct connect p3.so.qhmsg.com:80
+[2019-08-13 18:43:52] [Info] Direct connect p2.so.qhimgs1.com:80
+[2019-08-13 18:43:52] [Info] Direct connect p0.so.qhmsg.com:80
+[2019-08-13 18:43:52] [Info] Direct connect p2.so.qhmsg.com:80
+[2019-08-13 18:43:52] [Info] Direct connect p1.so.qhimgs1.com:80
+[2019-08-13 18:43:52] [Info] Direct connect p4.so.qhmsg.com:80
+[2019-08-13 18:43:52] [Info] Direct connect p2.so.qhmsg.com:80
+[2019-08-13 18:43:52] [Info] Direct connect p0.so.qhimgs1.com:80
+[2019-08-13 18:43:52] [Info] Direct connect p3.so.qhmsg.com:80
+[2019-08-13 18:43:53] [Info] Disconnect clients1.google.com:443
+[2019-08-13 18:44:08] [Info] Direct connect ss0.bdstatic.com:443
+[2019-08-13 18:44:09] [Info] Direct connect sp0.baidu.com:443
+[2019-08-13 18:44:09] [Info] Direct connect www.baidu.com:443
+[2019-08-13 18:44:09] [Info] Direct connect www.baidu.com:443
+[2019-08-13 18:44:09] [Info] Direct connect ss2.baidu.com:443
+[2019-08-13 18:44:09] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-08-13 18:44:09] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-08-13 18:44:09] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-08-13 18:44:09] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-08-13 18:44:09] [Info] Direct connect sp1.baidu.com:443
+[2019-08-13 18:44:15] [Info] Direct connect sp0.baidu.com:443
+[2019-08-13 18:44:15] [Info] Direct connect sp2.baidu.com:443
+[2019-08-13 18:44:15] [Info] Direct connect www.baidu.com:443
+[2019-08-13 18:44:15] [Info] Direct connect www.baidu.com:443
+[2019-08-13 18:44:15] [Info] Direct connect www.chinacourt.org:443
+[2019-08-13 18:44:15] [Info] Direct connect www.chinacourt.org:443
+[2019-08-13 18:44:16] [Info] Direct connect www.chinacourt.org:443
+[2019-08-13 18:44:16] [Info] Direct connect www.chinacourt.org:443
+[2019-08-13 18:44:16] [Info] Direct connect file.chinacourt.org:80
+[2019-08-13 18:44:16] [Info] Direct connect file.chinacourt.org:80
+[2019-08-13 18:44:16] [Info] Direct connect file.chinacourt.org:80
+[2019-08-13 18:44:16] [Info] Direct connect file.chinacourt.org:80
+[2019-08-13 18:44:16] [Info] Direct connect file.chinacourt.org:80
+[2019-08-13 18:44:16] [Info] Direct connect file.chinacourt.org:80
+[2019-08-13 18:44:16] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 18:44:16] [Info] Direct connect file.chinacourt.org:443
+[2019-08-13 18:44:16] [Info] Direct connect file.chinacourt.org:443
+[2019-08-13 18:44:16] [Info] Direct connect file.chinacourt.org:443
+[2019-08-13 18:44:16] [Info] Direct connect file.chinacourt.org:443
+[2019-08-13 18:44:16] [Info] Direct connect file.chinacourt.org:443
+[2019-08-13 18:44:16] [Info] Direct connect file.chinacourt.org:443
+[2019-08-13 18:44:16] [Info] Direct connect v-api.chinacourt.org:443
+[2019-08-13 18:44:17] [Debug] DNS query fail: ts.chinacourt.org
+[2019-08-13 18:44:17] [Info] Connect ts.chinacourt.org:80
+[2019-08-13 18:44:17] [Info] Direct connect file.chinacourt.org:80
+[2019-08-13 18:44:17] [Info] Direct connect file.chinacourt.org:80
+[2019-08-13 18:44:17] [Info] Direct connect file.chinacourt.org:80
+[2019-08-13 18:44:17] [Info] Direct connect file.chinacourt.org:80
+[2019-08-13 18:44:17] [Info] Direct connect file.chinacourt.org:80
+[2019-08-13 18:44:17] [Info] Connect clients1.google.com:443
+[2019-08-13 18:44:18] [Info] Disconnect ts.chinacourt.org:80
+[2019-08-13 18:44:19] [Info] Connect clients1.google.com:443
+[2019-08-13 18:44:23] [Info] Disconnect clients1.google.com:443
+[2019-08-13 18:44:52] [Info] Connect codeforces.com:80
+[2019-08-13 18:44:52] [Info] Direct connect www.google-analytics.com:443
+[2019-08-13 18:44:54] [Info] Disconnect codeforces.com:80
+[2019-08-13 18:44:54] [Info] Connect assets.codeforces.com:443
+[2019-08-13 18:44:54] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 18:44:54] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 18:44:54] [Info] Connect connect.facebook.net:443
+[2019-08-13 18:44:55] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 18:44:55] [Info] Connect codeforces.com:80
+[2019-08-13 18:44:55] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:55] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:55] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:55] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:55] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:55] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:56] [Info] Disconnect codeforces.com:80
+[2019-08-13 18:44:56] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:57] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:57] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:44:57] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:44:57] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:57] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:44:57] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:57] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:57] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:44:57] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:44:58] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:58] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:58] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:58] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:44:58] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:44:58] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:44:58] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:58] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:44:58] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:58] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:58] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:44:59] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:44:59] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:59] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:59] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:59] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:44:59] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:44:59] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:44:59] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:59] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:44:59] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:44:59] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:00] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:00] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:00] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:00] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:00] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:00] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:00] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:00] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:00] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:00] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:00] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:01] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:01] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:01] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:01] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:01] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:01] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:01] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:01] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:01] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:01] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:02] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:02] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:02] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:02] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:02] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:02] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:02] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:02] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:02] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:03] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:03] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:03] [Info] Disconnect assets.codeforces.com:443
+[2019-08-13 18:45:03] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 18:45:03] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:03] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:03] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:03] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:03] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:03] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:04] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:04] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:04] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:04] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:04] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:04] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:04] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:05] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:05] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:05] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:05] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:05] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:05] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:05] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:05] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:06] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:06] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:06] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:06] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:06] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:08] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:08] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:08] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:08] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:08] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:09] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:09] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:09] [Info] Connect pubsub.codeforces.com:80
+[2019-08-13 18:45:09] [Info] Connect clients1.google.com:443
+[2019-08-13 18:45:09] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:09] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:09] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:09] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:10] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:10] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:10] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:11] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:11] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:11] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:11] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:12] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:12] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:12] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:12] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:12] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:12] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:13] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:13] [Info] Connect userpic.codeforces.com:80
+[2019-08-13 18:45:13] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:13] [Info] Connect codeforces.com:80
+[2019-08-13 18:45:13] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:13] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:13] [Info] Disconnect clients1.google.com:443
+[2019-08-13 18:45:14] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:14] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:14] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:14] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:14] [Info] Connect codeforces.com:80
+[2019-08-13 18:45:14] [Info] Disconnect codeforces.com:80
+[2019-08-13 18:45:14] [Info] Disconnect userpic.codeforces.com:80
+[2019-08-13 18:45:14] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:14] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:14] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:14] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:14] [Info] Connect connect.facebook.net:443
+[2019-08-13 18:45:14] [Info] Direct connect www.google-analytics.com:443
+[2019-08-13 18:45:15] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:15] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:15] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:15] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:15] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:15] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:15] [Info] Disconnect codeforces.com:80
+[2019-08-13 18:45:15] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:15] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:15] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:16] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:16] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:16] [Info] Connect connect.facebook.net:443
+[2019-08-13 18:45:16] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:16] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:16] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:16] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:16] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:16] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:16] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:16] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:16] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:17] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:17] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:17] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:17] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:17] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:18] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:18] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:45:19] [Info] Connect www.facebook.com:443
+[2019-08-13 18:45:20] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:45:23] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 18:45:23] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 18:45:33] [Info] Disconnect www.facebook.com:443
+[2019-08-13 18:46:33] [Info] Connect raw.githubusercontent.com:443
+[2019-08-13 18:46:34] [Error] connect to update server error
+[2019-08-13 18:46:49] [Info] Connect clients2.google.com:443
+[2019-08-13 18:46:51] [Info] Connect clients2.googleusercontent.com:443
+[2019-08-13 18:46:53] [Info] Disconnect clients2.google.com:443
+[2019-08-13 18:47:08] [Info] Disconnect clients2.googleusercontent.com:443
+[2019-08-13 18:47:28] [Info] Connect codeforces.com:80
+[2019-08-13 18:47:28] [Info] Direct connect www.google-analytics.com:443
+[2019-08-13 18:47:28] [Info] Connect assets.codeforces.com:443
+[2019-08-13 18:47:28] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 18:47:28] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 18:47:28] [Info] Connect connect.facebook.net:443
+[2019-08-13 18:47:35] [Info] Connect codeforces.com:80
+[2019-08-13 18:47:38] [Info] Disconnect assets.codeforces.com:443
+[2019-08-13 18:47:38] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 18:47:38] [Info] Disconnect codeforces.com:80
+[2019-08-13 18:48:07] [Info] Direct connect www.google-analytics.com:443
+[2019-08-13 18:48:07] [Info] Connect connect.facebook.net:443
+[2019-08-13 18:48:07] [Info] Connect assets.codeforces.com:443
+[2019-08-13 18:48:07] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 18:48:07] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 18:48:07] [Info] Connect codeforces.com:80
+[2019-08-13 18:48:08] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 18:48:08] [Info] Disconnect assets.codeforces.com:443
+[2019-08-13 18:48:10] [Info] Disconnect codeforces.com:80
+[2019-08-13 18:48:13] [Info] Connect codeforces.com:80
+[2019-08-13 18:48:14] [Info] Disconnect codeforces.com:80
+[2019-08-13 18:48:15] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-13 18:51:02] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-08-13 18:51:07] [Info] Connect codeforces.com:80
+[2019-08-13 18:51:07] [Info] Disconnect codeforces.com:80
+[2019-08-13 18:51:08] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 18:51:08] [Info] Connect userpic.codeforces.com:80
+[2019-08-13 18:51:08] [Info] Connect userpic.codeforces.com:80
+[2019-08-13 18:51:08] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:51:08] [Info] Disconnect codeforces.com:80
+[2019-08-13 18:51:09] [Info] Connect sta.codeforces.com:80
+[2019-08-13 18:51:09] [Info] Connect pubsub.codeforces.com:80
+[2019-08-13 18:51:09] [Info] Connect clients1.google.com:443
+[2019-08-13 18:51:09] [Info] Direct connect www.google-analytics.com:443
+[2019-08-13 18:51:09] [Info] Connect www.facebook.com:443
+[2019-08-13 18:51:09] [Info] Disconnect userpic.codeforces.com:80
+[2019-08-13 18:51:10] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:51:10] [Info] Disconnect userpic.codeforces.com:80
+[2019-08-13 18:51:10] [Info] Disconnect sta.codeforces.com:80
+[2019-08-13 18:51:13] [Info] Connect codeforces.com:80
+[2019-08-13 18:51:14] [Info] Connect codeforces.com:80
+[2019-08-13 18:51:14] [Info] Disconnect codeforces.com:80
+[2019-08-13 18:51:15] [Info] Disconnect codeforces.com:80
+[2019-08-13 18:51:18] [Info] Disconnect clients1.google.com:443
+[2019-08-13 18:51:18] [Info] Disconnect www.facebook.com:443
+[2019-08-13 18:51:55] [Info] Direct connect www.google-analytics.com:443
+[2019-08-13 18:51:55] [Info] Connect codeforces.com:80
+[2019-08-13 18:51:55] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 18:51:55] [Info] Connect assets.codeforces.com:443
+[2019-08-13 18:51:55] [Info] Connect www.facebook.com:443
+[2019-08-13 18:51:55] [Info] Connect connect.facebook.net:443
+[2019-08-13 18:51:55] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 18:51:56] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 18:51:56] [Info] Disconnect pubsub.codeforces.com:80
+[2019-08-13 18:51:56] [Info] Connect userpic.codeforces.com:80
+[2019-08-13 18:51:56] [Info] Connect pubsub.codeforces.com:80
+[2019-08-13 18:51:56] [Info] Disconnect codeforces.com:80
+[2019-08-13 18:51:57] [Info] Disconnect userpic.codeforces.com:80
+[2019-08-13 18:51:58] [Info] Disconnect assets.codeforces.com:443
+[2019-08-13 18:51:58] [Info] Connect www.facebook.com:443
+[2019-08-13 18:51:58] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 18:51:58] [Info] Disconnect www.facebook.com:443
+[2019-08-13 18:52:01] [Info] Connect codeforces.com:80
+[2019-08-13 18:52:02] [Info] Disconnect codeforces.com:80
+[2019-08-13 18:52:03] [Info] Disconnect www.facebook.com:443
+[2019-08-13 18:52:11] [Info] Disconnect pubsub.codeforces.com:80
+[2019-08-13 18:52:12] [Info] Disconnect pubsub.codeforces.com:80
+[2019-08-13 18:54:25] [Info] Direct connect cn.bing.com:443
+[2019-08-13 18:54:25] [Info] Connect www.luogu.org:443
+[2019-08-13 18:54:26] [Info] Connect uploadbeta.com:443
+[2019-08-13 18:54:26] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 18:54:32] [Info] Direct connect open.saintic.com:443
+[2019-08-13 18:54:33] [Info] Disconnect www.luogu.org:443
+[2019-08-13 18:54:43] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 18:54:50] [Info] Connect www.luogu.org:443
+[2019-08-13 18:54:50] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 18:54:50] [Info] Direct connect cn.bing.com:443
+[2019-08-13 18:54:50] [Info] Connect uploadbeta.com:443
+[2019-08-13 18:54:53] [Info] Disconnect www.luogu.org:443
+[2019-08-13 18:55:03] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 18:55:43] [Info] Connect uploadbeta.com:443
+[2019-08-13 18:55:43] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 18:55:43] [Info] Direct connect cn.bing.com:443
+[2019-08-13 18:55:43] [Info] Connect www.luogu.org:443
+[2019-08-13 18:55:48] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 18:55:48] [Info] Disconnect www.luogu.org:443
+[2019-08-13 18:55:49] [Info] Connect www.luogu.org:443
+[2019-08-13 18:55:49] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 18:55:49] [Info] Direct connect cn.bing.com:443
+[2019-08-13 18:55:49] [Info] Connect uploadbeta.com:443
+[2019-08-13 18:55:53] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 18:55:54] [Info] Connect uploadbeta.com:443
+[2019-08-13 18:55:54] [Info] Direct connect open.saintic.com:443
+[2019-08-13 18:55:58] [Info] Disconnect www.luogu.org:443
+[2019-08-13 18:56:02] [Info] Connect www.luogu.org:443
+[2019-08-13 18:56:02] [Info] Direct connect cn.bing.com:443
+[2019-08-13 18:56:02] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 18:56:03] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 18:56:05] [Info] Direct connect cn.bing.com:443
+[2019-08-13 18:56:05] [Info] Connect uploadbeta.com:443
+[2019-08-13 18:56:05] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 18:56:06] [Info] Direct connect open.saintic.com:443
+[2019-08-13 18:56:08] [Info] Disconnect www.luogu.org:443
+[2019-08-13 18:56:13] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 18:57:03] [Info] Direct connect cn.bing.com:443
+[2019-08-13 18:57:03] [Info] Connect www.luogu.org:443
+[2019-08-13 18:57:03] [Info] Connect uploadbeta.com:443
+[2019-08-13 18:57:03] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 18:57:08] [Info] Direct connect open.saintic.com:443
+[2019-08-13 18:57:08] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 18:57:08] [Info] Disconnect www.luogu.org:443
+[2019-08-13 18:57:09] [Info] Connect clients1.google.com:443
+[2019-08-13 18:57:09] [Info] Connect uploadbeta.com:443
+[2019-08-13 18:57:09] [Info] Connect clients1.google.com:443
+[2019-08-13 18:57:10] [Info] Disconnect clients1.google.com:443
+[2019-08-13 18:57:13] [Info] Disconnect clients1.google.com:443
+[2019-08-13 18:57:13] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 18:57:21] [Info] Connect www.luogu.org:443
+[2019-08-13 18:57:21] [Info] Direct connect cn.bing.com:443
+[2019-08-13 18:57:21] [Info] Connect uploadbeta.com:443
+[2019-08-13 18:57:21] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 18:57:23] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 18:57:25] [Info] Direct connect open.saintic.com:443
+[2019-08-13 18:57:25] [Info] Connect uploadbeta.com:443
+[2019-08-13 18:57:27] [Info] Direct connect cn.bing.com:443
+[2019-08-13 18:57:27] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 18:57:30] [Info] Direct connect open.saintic.com:443
+[2019-08-13 18:57:33] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 18:57:33] [Info] Disconnect www.luogu.org:443
+[2019-08-13 18:57:53] [Info] Connect www.luogu.org:443
+[2019-08-13 18:57:53] [Info] Direct connect cn.bing.com:443
+[2019-08-13 18:57:53] [Info] Connect uploadbeta.com:443
+[2019-08-13 18:57:53] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 18:57:56] [Info] Direct connect open.saintic.com:443
+[2019-08-13 18:57:58] [Info] Disconnect www.luogu.org:443
+[2019-08-13 18:58:03] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 18:58:42] [Info] Connect www.luogu.org:443
+[2019-08-13 18:58:42] [Info] Connect uploadbeta.com:443
+[2019-08-13 18:58:42] [Info] Direct connect cn.bing.com:443
+[2019-08-13 18:58:42] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 18:58:43] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 18:58:47] [Info] Direct connect open.saintic.com:443
+[2019-08-13 18:58:47] [Info] Connect clients1.google.com:443
+[2019-08-13 18:58:47] [Info] Connect uploadbeta.com:443
+[2019-08-13 18:58:48] [Info] Connect clients1.google.com:443
+[2019-08-13 18:58:48] [Info] Disconnect www.luogu.org:443
+[2019-08-13 18:58:49] [Info] Disconnect clients1.google.com:443
+[2019-08-13 18:58:53] [Info] Disconnect clients1.google.com:443
+[2019-08-13 18:58:53] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 18:59:33] [Info] Connect www.luogu.org:443
+[2019-08-13 18:59:33] [Info] Direct connect cn.bing.com:443
+[2019-08-13 18:59:33] [Info] Connect uploadbeta.com:443
+[2019-08-13 18:59:34] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 18:59:37] [Info] Direct connect open.saintic.com:443
+[2019-08-13 18:59:37] [Info] Connect clients1.google.com:443
+[2019-08-13 18:59:37] [Info] Connect clients1.google.com:443
+[2019-08-13 18:59:38] [Info] Disconnect clients1.google.com:443
+[2019-08-13 18:59:38] [Info] Disconnect www.luogu.org:443
+[2019-08-13 18:59:43] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 18:59:43] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:02:16] [Info] Direct connect cn.bing.com:443
+[2019-08-13 19:02:16] [Info] Connect uploadbeta.com:443
+[2019-08-13 19:02:16] [Info] Connect www.luogu.org:443
+[2019-08-13 19:02:16] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 19:02:18] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 19:02:20] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 19:02:20] [Info] Direct connect open.saintic.com:443
+[2019-08-13 19:02:20] [Info] Connect uploadbeta.com:443
+[2019-08-13 19:02:23] [Info] Disconnect www.luogu.org:443
+[2019-08-13 19:02:28] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 19:02:37] [Info] Direct connect clientservices.googleapis.com:443
+[2019-08-13 19:02:47] [Info] Connect www.luogu.org:443
+[2019-08-13 19:02:47] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 19:02:47] [Info] Direct connect cn.bing.com:443
+[2019-08-13 19:02:47] [Info] Connect uploadbeta.com:443
+[2019-08-13 19:02:52] [Info] Direct connect open.saintic.com:443
+[2019-08-13 19:02:53] [Info] Disconnect www.luogu.org:443
+[2019-08-13 19:02:56] [Info] Connect www.luogu.org:443
+[2019-08-13 19:02:56] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 19:02:56] [Info] Direct connect cn.bing.com:443
+[2019-08-13 19:03:03] [Info] Connect cc.amazingcounters.com:80
+[2019-08-13 19:03:03] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 19:03:03] [Info] Disconnect www.luogu.org:443
+[2019-08-13 19:03:03] [Info] Direct connect open.saintic.com:443
+[2019-08-13 19:03:03] [Info] Connect uploadbeta.com:443
+[2019-08-13 19:03:03] [Info] Connect www.luogu.org:443
+[2019-08-13 19:03:04] [Info] Connect clients1.google.com:443
+[2019-08-13 19:03:04] [Info] Connect clients1.google.com:443
+[2019-08-13 19:03:04] [Info] Disconnect cc.amazingcounters.com:80
+[2019-08-13 19:03:05] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:03:08] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:03:08] [Info] Disconnect www.luogu.org:443
+[2019-08-13 19:03:11] [Info] Connect www.luogu.org:443
+[2019-08-13 19:03:11] [Info] Direct connect cn.bing.com:443
+[2019-08-13 19:03:11] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 19:03:13] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 19:03:15] [Info] Direct connect cn.bing.com:443
+[2019-08-13 19:03:15] [Info] Connect uploadbeta.com:443
+[2019-08-13 19:03:15] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 19:03:18] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 19:03:20] [Info] Direct connect ipcounter.ihcr.top:443
+[2019-08-13 19:03:20] [Info] Direct connect api.dujin.org:443
+[2019-08-13 19:03:20] [Info] Direct connect api.ixiaowai.cn:443
+[2019-08-13 19:03:21] [Info] Direct connect tva2.sinaimg.cn:443
+[2019-08-13 19:03:21] [Info] Direct connect ws1.sinaimg.cn:443
+[2019-08-13 19:03:21] [Info] Direct connect open.saintic.com:443
+[2019-08-13 19:03:22] [Info] Direct connect img.xjh.me:80
+[2019-08-13 19:03:22] [Info] Direct connect img.xjh.me:80
+[2019-08-13 19:03:22] [Info] Direct connect img.xjh.me:80
+[2019-08-13 19:03:22] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-08-13 19:03:22] [Info] Direct connect img.xjh.me:80
+[2019-08-13 19:03:22] [Info] Direct connect img.xjh.me:80
+[2019-08-13 19:03:22] [Info] Direct connect img.xjh.me:80
+[2019-08-13 19:03:22] [Info] Direct connect acg.bakayun.cn:80
+[2019-08-13 19:03:22] [Info] Direct connect random.52ecy.cn:443
+[2019-08-13 19:03:22] [Info] Direct connect img.https.badapple.top:443
+[2019-08-13 19:03:22] [Info] Connect uploadbeta.com:443
+[2019-08-13 19:03:23] [Debug] DNS query fail: api.cinema000.xyz
+[2019-08-13 19:03:23] [Info] Connect api.cinema000.xyz:443
+[2019-08-13 19:03:23] [Info] Direct connect cdn.sinaimg.cn.52ecy.cn:443
+[2019-08-13 19:03:24] [Info] Direct connect cn.bing.com:443
+[2019-08-13 19:03:24] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 19:03:25] [Info] Disconnect api.cinema000.xyz:443
+[2019-08-13 19:03:30] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 19:03:33] [Info] Disconnect www.luogu.org:443
+[2019-08-13 19:03:33] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 19:04:50] [Info] Connect www.google.com:443
+[2019-08-13 19:04:50] [Info] Connect www.google.com:443
+[2019-08-13 19:04:51] [Info] Connect www.google.com:443
+[2019-08-13 19:04:54] [Info] Disconnect www.google.com:443
+[2019-08-13 19:04:54] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-13 19:04:54] [Info] Direct connect www.gstatic.com:443
+[2019-08-13 19:04:54] [Info] Connect encrypted-tbn3.gstatic.com:443
+[2019-08-13 19:04:54] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 19:04:54] [Info] Connect encrypted-tbn1.gstatic.com:443
+[2019-08-13 19:04:54] [Info] Connect lh3.googleusercontent.com:443
+[2019-08-13 19:04:55] [Info] Connect apis.google.com:443
+[2019-08-13 19:04:57] [Info] Connect www.google.com:443
+[2019-08-13 19:04:59] [Info] Disconnect apis.google.com:443
+[2019-08-13 19:04:59] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 19:04:59] [Info] Disconnect encrypted-tbn1.gstatic.com:443
+[2019-08-13 19:04:59] [Info] Disconnect encrypted-tbn3.gstatic.com:443
+[2019-08-13 19:04:59] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-08-13 19:04:59] [Info] Disconnect www.google.com:443
+[2019-08-13 19:05:03] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:05:03] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 19:05:04] [Info] Disconnect www.google.com:443
+[2019-08-13 19:05:05] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:05:05] [Info] Connect www.google.com:443
+[2019-08-13 19:05:05] [Info] Connect poro.cx:80
+[2019-08-13 19:05:07] [Info] Disconnect poro.cx:80
+[2019-08-13 19:05:08] [Info] Direct connect adservice.google.com:443
+[2019-08-13 19:05:09] [Info] Disconnect www.google.com:443
+[2019-08-13 19:05:09] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:12] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:12] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:12] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:14] [Info] Disconnect www.google.com:443
+[2019-08-13 19:05:14] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:14] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:14] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:14] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:14] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:17] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:18] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:18] [Info] Connect www.google.com:443
+[2019-08-13 19:05:18] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 19:05:18] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 19:05:18] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 19:05:18] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 19:05:18] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 19:05:18] [Info] Connect www.google.com:443
+[2019-08-13 19:05:18] [Info] Connect www.google.com:443
+[2019-08-13 19:05:19] [Info] Connect www.google.com:443
+[2019-08-13 19:05:19] [Info] Connect www.google.com:443
+[2019-08-13 19:05:19] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:19] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:19] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 19:05:19] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 19:05:20] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 19:05:20] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 19:05:20] [Info] Disconnect www.google.com:443
+[2019-08-13 19:05:20] [Info] Disconnect www.google.com:443
+[2019-08-13 19:05:20] [Info] Disconnect www.google.com:443
+[2019-08-13 19:05:20] [Info] Disconnect www.google.com:443
+[2019-08-13 19:05:20] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:20] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:20] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:21] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:21] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:21] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:23] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:23] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:24] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:24] [Info] Connect clients1.google.com:443
+[2019-08-13 19:05:24] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:24] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:24] [Info] Disconnect www.google.com:443
+[2019-08-13 19:05:24] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 19:05:24] [Info] Connect www.google.com:443
+[2019-08-13 19:05:25] [Info] Connect www.google.com:443
+[2019-08-13 19:05:25] [Info] Connect www.google.com:443
+[2019-08-13 19:05:25] [Info] Connect www.google.com:443
+[2019-08-13 19:05:26] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:26] [Info] Disconnect www.google.com:443
+[2019-08-13 19:05:26] [Info] Disconnect www.google.com:443
+[2019-08-13 19:05:26] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:26] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:26] [Info] Disconnect www.google.com:443
+[2019-08-13 19:05:29] [Info] Disconnect www.google.com:443
+[2019-08-13 19:05:29] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:05:35] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:05:36] [Info] Connect www.google.com:443
+[2019-08-13 19:05:36] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-13 19:05:36] [Info] Direct connect www.gstatic.com:443
+[2019-08-13 19:05:36] [Info] Connect apis.google.com:443
+[2019-08-13 19:05:37] [Info] Connect encrypted-tbn0.gstatic.com:443
+[2019-08-13 19:05:37] [Info] Connect encrypted-tbn3.gstatic.com:443
+[2019-08-13 19:05:37] [Info] Connect lh3.googleusercontent.com:443
+[2019-08-13 19:05:37] [Info] Connect www.google.com:443
+[2019-08-13 19:05:39] [Info] Disconnect www.google.com:443
+[2019-08-13 19:05:44] [Info] Disconnect encrypted-tbn0.gstatic.com:443
+[2019-08-13 19:05:44] [Info] Disconnect apis.google.com:443
+[2019-08-13 19:05:44] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-08-13 19:05:44] [Info] Disconnect encrypted-tbn3.gstatic.com:443
+[2019-08-13 19:05:45] [Info] Direct connect adservice.google.com:443
+[2019-08-13 19:05:45] [Debug] DNS query fail: adservice.google.cn
+[2019-08-13 19:05:45] [Info] Connect adservice.google.cn:443
+[2019-08-13 19:05:45] [Info] Connect greasyfork.org:443
+[2019-08-13 19:05:45] [Info] Connect greasyfork.org:443
+[2019-08-13 19:05:47] [Info] Disconnect adservice.google.cn:443
+[2019-08-13 19:05:49] [Info] Disconnect greasyfork.org:443
+[2019-08-13 19:05:49] [Info] Disconnect www.google.com:443
+[2019-08-13 19:05:49] [Info] Connect greasyfork.org:443
+[2019-08-13 19:05:50] [Info] Disconnect greasyfork.org:443
+[2019-08-13 19:05:51] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 19:05:51] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:05:51] [Info] Direct connect www.google-analytics.com:443
+[2019-08-13 19:05:51] [Info] Connect clients1.google.com:443
+[2019-08-13 19:05:53] [Info] Connect www.google.com:443
+[2019-08-13 19:05:54] [Info] Disconnect greasyfork.org:443
+[2019-08-13 19:05:54] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:05:54] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:05:54] [Info] Direct connect www.google-analytics.com:443
+[2019-08-13 19:05:54] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-08-13 19:05:54] [Info] Connect js-agent.newrelic.com:443
+[2019-08-13 19:05:54] [Info] Connect greasyfork.org:443
+[2019-08-13 19:05:56] [Info] Connect bam.nr-data.net:443
+[2019-08-13 19:05:59] [Info] Disconnect bam.nr-data.net:443
+[2019-08-13 19:05:59] [Info] Disconnect js-agent.newrelic.com:443
+[2019-08-13 19:05:59] [Info] Disconnect www.google.com:443
+[2019-08-13 19:05:59] [Info] Disconnect greasyfork.org:443
+[2019-08-13 19:06:14] [Info] Connect www.google.com:443
+[2019-08-13 19:06:14] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:06:14] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:06:15] [Info] Direct connect ssl.gstatic.com:443
+[2019-08-13 19:06:15] [Info] Direct connect www.gstatic.com:443
+[2019-08-13 19:06:15] [Info] Connect apis.google.com:443
+[2019-08-13 19:06:15] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:06:15] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:06:15] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:06:15] [Info] Connect www.google.com:443
+[2019-08-13 19:06:15] [Info] Connect www.google.com:443
+[2019-08-13 19:06:15] [Info] Direct connect images.nowcoder.com:443
+[2019-08-13 19:06:16] [Info] Connect clients1.google.com:443
+[2019-08-13 19:06:16] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:06:16] [Info] Disconnect www.google.com:443
+[2019-08-13 19:06:16] [Info] Disconnect www.google.com:443
+[2019-08-13 19:06:18] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:06:18] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:06:18] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:06:18] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:06:18] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:06:18] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:06:18] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:06:19] [Info] Direct connect adservice.google.com:443
+[2019-08-13 19:06:19] [Info] Disconnect apis.google.com:443
+[2019-08-13 19:06:19] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:06:24] [Info] Disconnect www.google.com:443
+[2019-08-13 19:06:51] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:06:51] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:06:51] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:06:51] [Info] Direct connect images.nowcoder.com:443
+[2019-08-13 19:06:51] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:06:51] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:06:52] [Info] Connect clients1.google.com:443
+[2019-08-13 19:06:52] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:06:54] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:06:54] [Info] Direct connect graph.qq.com:443
+[2019-08-13 19:06:54] [Info] Direct connect graph.qq.com:443
+[2019-08-13 19:06:56] [Info] Direct connect imgcache.qq.com:443
+[2019-08-13 19:06:56] [Info] Direct connect xui.ptlogin2.qq.com:443
+[2019-08-13 19:06:56] [Info] Direct connect tajs.qq.com:443
+[2019-08-13 19:06:56] [Info] Direct connect tajs.qq.com:443
+[2019-08-13 19:06:56] [Info] Direct connect ty.captcha.qq.com:443
+[2019-08-13 19:06:57] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:06:57] [Info] Direct connect ssl.captcha.qq.com:443
+[2019-08-13 19:06:57] [Info] Direct connect pingtas.qq.com:443
+[2019-08-13 19:06:57] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2019-08-13 19:06:57] [Info] Direct connect pingtas.qq.com:443
+[2019-08-13 19:06:57] [Info] Direct connect ui.ptlogin2.qq.com:443
+[2019-08-13 19:07:00] [Info] Direct connect imgcache.qq.com:443
+[2019-08-13 19:07:00] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2019-08-13 19:07:00] [Info] Direct connect xui.ptlogin2.qq.com:443
+[2019-08-13 19:07:00] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2019-08-13 19:07:00] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-08-13 19:07:00] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2019-08-13 19:07:00] [Info] Direct connect ui.ptlogin2.qq.com:443
+[2019-08-13 19:07:00] [Info] Direct connect captcha.gtimg.com:443
+[2019-08-13 19:07:03] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-08-13 19:07:03] [Info] Direct connect huatuospeed.weiyun.com:443
+[2019-08-13 19:07:03] [Info] Direct connect ssl.ptlogin2.graph.qq.com:443
+[2019-08-13 19:07:03] [Info] Direct connect graph.qq.com:443
+[2019-08-13 19:07:03] [Info] Direct connect graph.qq.com:443
+[2019-08-13 19:07:03] [Info] Direct connect pingtas.qq.com:443
+[2019-08-13 19:07:03] [Info] Direct connect tajs.qq.com:443
+[2019-08-13 19:07:03] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:07:04] [Info] Connect clients1.google.com:443
+[2019-08-13 19:07:04] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:07:04] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:07:04] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:07:05] [Info] Direct connect www.nowcoder.com:80
+[2019-08-13 19:07:06] [Info] Direct connect www.nowcoder.com:80
+[2019-08-13 19:07:06] [Info] Direct connect images.nowcoder.com:443
+[2019-08-13 19:07:06] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:07:07] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:07:09] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:07:12] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:13] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:07:14] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:15] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:15] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:16] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:16] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:07:16] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:07:16] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:07:16] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:07:17] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:07:17] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:07:17] [Info] Direct connect images.nowcoder.com:443
+[2019-08-13 19:07:17] [Info] Connect clients1.google.com:443
+[2019-08-13 19:07:17] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:18] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:18] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:18] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:19] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:07:20] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:20] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:20] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:20] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:21] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:22] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:22] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:22] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:22] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:07:22] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:22] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:24] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:24] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:25] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:25] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:25] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:26] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:27] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:28] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:28] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:28] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:07:28] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:28] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:07:29] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:07:29] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:07:29] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:07:29] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:07:29] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:07:29] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:07:30] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:07:31] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:07:31] [Info] Direct connect images.nowcoder.com:443
+[2019-08-13 19:07:31] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:07:34] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:07:35] [Info] Direct connect images.nowcoder.com:443
+[2019-08-13 19:07:35] [Info] Connect clients1.google.com:443
+[2019-08-13 19:07:39] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:07:42] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:07:43] [Info] Direct connect images.nowcoder.com:443
+[2019-08-13 19:07:43] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:07:43] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:07:43] [Info] Connect clients1.google.com:443
+[2019-08-13 19:07:49] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:07:58] [Info] Direct connect blog.nowcoder.net:443
+[2019-08-13 19:07:58] [Info] Direct connect blog.nowcoder.net:443
+[2019-08-13 19:07:59] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:07:59] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:07:59] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:07:59] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:07:59] [Info] Direct connect blog.nowcoder.net:443
+[2019-08-13 19:08:00] [Info] Direct connect images.nowcoder.com:443
+[2019-08-13 19:08:00] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:08:00] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:08:06] [Info] Direct connect blog.nowcoder.net:443
+[2019-08-13 19:08:09] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:08:09] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:08:09] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:08:09] [Info] Direct connect images.nowcoder.com:443
+[2019-08-13 19:08:10] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:08:11] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:08:11] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:08:17] [Info] Direct connect blog.nowcoder.net:443
+[2019-08-13 19:08:22] [Info] Direct connect blog.nowcoder.net:443
+[2019-08-13 19:08:22] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:08:22] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:08:22] [Info] Direct connect images.nowcoder.com:443
+[2019-08-13 19:08:22] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:08:23] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:08:24] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:08:24] [Info] Connect clients1.google.com:443
+[2019-08-13 19:08:24] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:08:24] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:08:28] [Info] Direct connect blog.nowcoder.net:443
+[2019-08-13 19:08:29] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:08:31] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:08:44] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:08:50] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:08:50] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:08:50] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:08:50] [Info] Direct connect images.nowcoder.com:443
+[2019-08-13 19:08:50] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:08:51] [Info] Direct connect ac.nowcoder.com:443
+[2019-08-13 19:08:52] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:08:52] [Info] Connect clients1.google.com:443
+[2019-08-13 19:08:54] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:08:57] [Info] Direct connect ac.nowcoder.com:443
+[2019-08-13 19:08:58] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:08:58] [Info] Direct connect images.nowcoder.com:443
+[2019-08-13 19:08:58] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:08:58] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:08:59] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:08:59] [Info] Direct connect ac.nowcoder.com:443
+[2019-08-13 19:09:04] [Info] Direct connect ac.nowcoder.com:443
+[2019-08-13 19:09:10] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:09:10] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:09:10] [Info] Direct connect blog.nowcoder.net:443
+[2019-08-13 19:09:10] [Info] Direct connect images.nowcoder.com:443
+[2019-08-13 19:09:10] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:09:12] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:09:12] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:09:17] [Info] Direct connect blog.nowcoder.net:443
+[2019-08-13 19:09:25] [Info] Connect github.com:443
+[2019-08-13 19:09:28] [Info] Connect github.com:443
+[2019-08-13 19:09:28] [Info] Connect avatars2.githubusercontent.com:443
+[2019-08-13 19:09:28] [Info] Connect github.githubassets.com:443
+[2019-08-13 19:09:28] [Info] Connect camo.githubusercontent.com:443
+[2019-08-13 19:09:29] [Info] Connect github.githubassets.com:443
+[2019-08-13 19:09:30] [Info] Connect github.githubassets.com:443
+[2019-08-13 19:09:30] [Info] Connect github.githubassets.com:443
+[2019-08-13 19:09:30] [Info] Disconnect github.githubassets.com:443
+[2019-08-13 19:09:31] [Info] Disconnect github.githubassets.com:443
+[2019-08-13 19:09:32] [Info] Connect avatars1.githubusercontent.com:443
+[2019-08-13 19:09:32] [Info] Connect clients1.google.com:443
+[2019-08-13 19:09:32] [Info] Connect avatars0.githubusercontent.com:443
+[2019-08-13 19:09:32] [Info] Direct connect blog.nowcoder.net:443
+[2019-08-13 19:09:32] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:09:32] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:09:32] [Info] Direct connect images.nowcoder.com:443
+[2019-08-13 19:09:32] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:09:32] [Info] Connect avatars3.githubusercontent.com:443
+[2019-08-13 19:09:32] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:09:33] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:09:33] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:09:34] [Info] Disconnect avatars2.githubusercontent.com:443
+[2019-08-13 19:09:34] [Info] Disconnect camo.githubusercontent.com:443
+[2019-08-13 19:09:34] [Info] Disconnect github.com:443
+[2019-08-13 19:09:34] [Info] Disconnect github.com:443
+[2019-08-13 19:09:34] [Info] Disconnect github.githubassets.com:443
+[2019-08-13 19:09:35] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-08-13 19:09:35] [Info] Direct connect www.google-analytics.com:443
+[2019-08-13 19:09:35] [Info] Connect live.github.com:443
+[2019-08-13 19:09:37] [Info] Direct connect blog.nowcoder.net:443
+[2019-08-13 19:09:37] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:09:37] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:09:37] [Info] Direct connect images.nowcoder.com:443
+[2019-08-13 19:09:37] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:09:37] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:09:39] [Info] Disconnect live.github.com:443
+[2019-08-13 19:09:39] [Info] Disconnect avatars3.githubusercontent.com:443
+[2019-08-13 19:09:39] [Info] Disconnect avatars0.githubusercontent.com:443
+[2019-08-13 19:09:39] [Info] Disconnect avatars1.githubusercontent.com:443
+[2019-08-13 19:09:39] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:09:39] [Info] Disconnect github.githubassets.com:443
+[2019-08-13 19:09:40] [Info] Direct connect www.google-analytics.com:443
+[2019-08-13 19:09:40] [Info] Connect codeforces.com:443
+[2019-08-13 19:09:40] [Info] Connect codeforces.com:443
+[2019-08-13 19:09:40] [Info] Connect assets.codeforces.com:443
+[2019-08-13 19:09:40] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 19:09:40] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:09:40] [Info] Connect connect.facebook.net:443
+[2019-08-13 19:09:40] [Info] Connect www.facebook.com:443
+[2019-08-13 19:09:42] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:09:42] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:09:42] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:09:42] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:09:42] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:09:42] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:09:42] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:09:43] [Info] Direct connect blog.nowcoder.net:443
+[2019-08-13 19:09:44] [Info] Disconnect assets.codeforces.com:443
+[2019-08-13 19:09:44] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 19:09:44] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:09:44] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:09:44] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:09:45] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:09:45] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:09:45] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:09:45] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:09:49] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:09:51] [Info] Direct connect blog.nowcoder.net:443
+[2019-08-13 19:09:51] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:09:51] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:09:51] [Info] Direct connect images.nowcoder.com:443
+[2019-08-13 19:09:51] [Info] Direct connect uploadfiles.nowcoder.com:443
+[2019-08-13 19:09:51] [Info] Direct connect static.nowcoder.com:443
+[2019-08-13 19:09:51] [Info] Direct connect www.nowcoder.com:443
+[2019-08-13 19:09:51] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:09:54] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:09:54] [Info] Connect pubsub.codeforces.com:443
+[2019-08-13 19:09:54] [Info] Connect clients1.google.com:443
+[2019-08-13 19:09:54] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:09:57] [Info] Direct connect blog.nowcoder.net:443
+[2019-08-13 19:09:57] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:09:57] [Info] Connect connect.facebook.net:443
+[2019-08-13 19:09:58] [Info] Connect www.facebook.com:443
+[2019-08-13 19:09:59] [Info] Connect codeforces.com:443
+[2019-08-13 19:09:59] [Info] Connect codeforces.com:443
+[2019-08-13 19:09:59] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:09:59] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:09:59] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:09:59] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:10:01] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:10:04] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:10:04] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:10:04] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:10:04] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:10:04] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 19:10:04] [Info] Connect ocsp1.digicert.com:80
+[2019-08-13 19:10:05] [Info] Disconnect ocsp1.digicert.com:80
+[2019-08-13 19:10:06] [Info] Connect ocsp.sectigo.com:80
+[2019-08-13 19:10:07] [Info] Connect ocsp.digicert.com:80
+[2019-08-13 19:10:07] [Info] Disconnect ocsp.sectigo.com:80
+[2019-08-13 19:10:08] [Info] Connect isrg.trustid.ocsp.identrust.com:80
+[2019-08-13 19:10:08] [Info] Disconnect ocsp.digicert.com:80
+[2019-08-13 19:10:11] [Info] Connect ocsp.digicert.com:80
+[2019-08-13 19:10:11] [Info] Disconnect isrg.trustid.ocsp.identrust.com:80
+[2019-08-13 19:10:12] [Info] Connect ocsp.digicert.com:80
+[2019-08-13 19:10:12] [Info] Disconnect ocsp.digicert.com:80
+[2019-08-13 19:10:15] [Info] Direct connect ocsp2.globalsign.com:80
+[2019-08-13 19:10:15] [Info] Disconnect ocsp.digicert.com:80
+[2019-08-13 19:10:15] [Info] Connect ocsp.digicert.com:80
+[2019-08-13 19:10:17] [Info] Direct connect www.download.windowsupdate.com:80
+[2019-08-13 19:10:17] [Info] Connect ocsp.sectigo.com:80
+[2019-08-13 19:10:17] [Info] Disconnect ocsp.digicert.com:80
+[2019-08-13 19:10:19] [Info] Direct connect ocsp2.globalsign.com:80
+[2019-08-13 19:10:19] [Info] Direct connect ocsp.globalsign.com:80
+[2019-08-13 19:10:19] [Info] Disconnect ocsp.sectigo.com:80
+[2019-08-13 19:10:27] [Info] Connect codeforces.com:443
+[2019-08-13 19:10:27] [Info] Connect codeforces.com:443
+[2019-08-13 19:10:27] [Info] Direct connect www.google-analytics.com:443
+[2019-08-13 19:10:27] [Info] Connect assets.codeforces.com:443
+[2019-08-13 19:10:27] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 19:10:27] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:10:27] [Info] Connect connect.facebook.net:443
+[2019-08-13 19:10:27] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:10:27] [Info] Connect www.facebook.com:443
+[2019-08-13 19:10:28] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:10:28] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:10:28] [Info] Direct connect blog.nowcoder.net:443
+[2019-08-13 19:10:29] [Info] Direct connect hm.baidu.com:443
+[2019-08-13 19:10:29] [Info] Disconnect assets.codeforces.com:443
+[2019-08-13 19:10:29] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 19:10:30] [Info] Connect www.google.com:443
+[2019-08-13 19:10:30] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:10:31] [Info] Disconnect pubsub.codeforces.com:443
+[2019-08-13 19:10:31] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:10:31] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:10:33] [Info] Connect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:10:33] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:10:34] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:10:34] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:10:34] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:10:34] [Info] Disconnect www.google.com:443
+[2019-08-13 19:10:34] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:10:35] [Info] Disconnect 8mdk.rspwm.6amrd.t49ydyj.freepolink.top:80
+[2019-08-13 19:10:35] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:10:36] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:10:36] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:10:36] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:10:36] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:10:37] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:10:37] [Info] Connect pubsub.codeforces.com:443
+[2019-08-13 19:10:37] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:10:37] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:10:37] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:10:37] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:10:37] [Info] Connect www.facebook.com:443
+[2019-08-13 19:10:37] [Info] Connect clients1.google.com:443
+[2019-08-13 19:10:37] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:10:39] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:10:39] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:10:40] [Info] Connect www.facebook.com:443
+[2019-08-13 19:10:42] [Info] Connect clients1.google.com:443
+[2019-08-13 19:10:44] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:10:45] [Info] Connect clients1.google.com:443
+[2019-08-13 19:10:49] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:10:54] [Info] Connect codeforces.com:443
+[2019-08-13 19:10:54] [Info] Connect assets.codeforces.com:443
+[2019-08-13 19:10:54] [Info] Connect codeforces.com:443
+[2019-08-13 19:10:54] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 19:10:54] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:10:54] [Info] Connect www.facebook.com:443
+[2019-08-13 19:10:54] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:10:54] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:10:54] [Info] Connect connect.facebook.net:443
+[2019-08-13 19:10:54] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:10:55] [Info] Direct connect www.google-analytics.com:443
+[2019-08-13 19:10:59] [Info] Disconnect assets.codeforces.com:443
+[2019-08-13 19:10:59] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 19:10:59] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:10:59] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:10:59] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:11:00] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:11:00] [Info] Disconnect pubsub.codeforces.com:443
+[2019-08-13 19:11:00] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:11:00] [Info] Connect www.facebook.com:443
+[2019-08-13 19:11:03] [Info] Connect pubsub.codeforces.com:443
+[2019-08-13 19:11:03] [Info] Connect www.facebook.com:443
+[2019-08-13 19:11:04] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:11:04] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:11:05] [Info] Connect codeforces.com:443
+[2019-08-13 19:11:06] [Info] Connect www.facebook.com:443
+[2019-08-13 19:11:08] [Info] Connect www.facebook.com:443
+[2019-08-13 19:11:09] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:11:09] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:11:14] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:11:25] [Info] Connect codeforces.com:443
+[2019-08-13 19:11:25] [Info] Connect codeforces.com:443
+[2019-08-13 19:11:25] [Info] Connect assets.codeforces.com:443
+[2019-08-13 19:11:25] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 19:11:25] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:11:25] [Info] Connect connect.facebook.net:443
+[2019-08-13 19:11:26] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:11:26] [Info] Connect www.facebook.com:443
+[2019-08-13 19:11:26] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:11:26] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:11:28] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:11:29] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:11:29] [Info] Disconnect assets.codeforces.com:443
+[2019-08-13 19:11:29] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:11:29] [Info] Connect pubsub.codeforces.com:443
+[2019-08-13 19:11:29] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:11:34] [Info] Connect codeforces.com:443
+[2019-08-13 19:11:34] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 19:11:34] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:11:34] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:11:36] [Info] Connect www.facebook.com:443
+[2019-08-13 19:11:39] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:11:39] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:11:39] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:12:22] [Info] Connect codeforces.com:443
+[2019-08-13 19:12:22] [Info] Connect codeforces.com:443
+[2019-08-13 19:12:22] [Info] Connect assets.codeforces.com:443
+[2019-08-13 19:12:22] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:12:22] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 19:12:22] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:12:22] [Info] Connect www.facebook.com:443
+[2019-08-13 19:12:22] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:12:22] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:12:22] [Info] Connect connect.facebook.net:443
+[2019-08-13 19:12:24] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:12:24] [Info] Disconnect pubsub.codeforces.com:443
+[2019-08-13 19:12:24] [Info] Disconnect assets.codeforces.com:443
+[2019-08-13 19:12:24] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:12:24] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 19:12:24] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:12:25] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:12:25] [Info] Connect www.facebook.com:443
+[2019-08-13 19:12:25] [Info] Connect pubsub.codeforces.com:443
+[2019-08-13 19:12:26] [Info] Connect clients1.google.com:443
+[2019-08-13 19:12:29] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:12:29] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:12:29] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:12:29] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:12:29] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:12:29] [Info] Connect codeforces.com:443
+[2019-08-13 19:12:34] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:12:35] [Info] Connect codeforces.com:443
+[2019-08-13 19:12:35] [Info] Connect codeforces.com:443
+[2019-08-13 19:12:35] [Info] Connect codeforces.com:443
+[2019-08-13 19:12:35] [Info] Connect codeforces.com:443
+[2019-08-13 19:12:39] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:12:39] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:12:39] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:12:39] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:12:53] [Info] Connect codeforces.com:443
+[2019-08-13 19:12:59] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:13:00] [Info] Connect codeforces.com:443
+[2019-08-13 19:13:04] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:13:05] [Info] Connect codeforces.com:443
+[2019-08-13 19:13:05] [Info] Connect codeforces.com:443
+[2019-08-13 19:13:05] [Info] Connect assets.codeforces.com:443
+[2019-08-13 19:13:05] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 19:13:05] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:13:05] [Info] Connect connect.facebook.net:443
+[2019-08-13 19:13:06] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:13:06] [Info] Connect www.facebook.com:443
+[2019-08-13 19:13:06] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:13:06] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:13:07] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:13:07] [Info] Disconnect pubsub.codeforces.com:443
+[2019-08-13 19:13:07] [Info] Connect pubsub.codeforces.com:443
+[2019-08-13 19:13:09] [Info] Disconnect assets.codeforces.com:443
+[2019-08-13 19:13:09] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:13:09] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 19:13:09] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:13:09] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:13:14] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:13:17] [Info] Connect codeforces.com:443
+[2019-08-13 19:13:17] [Info] Connect codeforces.com:443
+[2019-08-13 19:13:17] [Info] Connect assets.codeforces.com:443
+[2019-08-13 19:13:18] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 19:13:18] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:13:18] [Info] Connect connect.facebook.net:443
+[2019-08-13 19:13:18] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:13:18] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:13:18] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:13:19] [Info] Disconnect assets.codeforces.com:443
+[2019-08-13 19:13:19] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:13:19] [Info] Connect codeforces.com:443
+[2019-08-13 19:13:19] [Info] Connect assets.codeforces.com:443
+[2019-08-13 19:13:19] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 19:13:19] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:13:19] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:13:19] [Info] Connect www.facebook.com:443
+[2019-08-13 19:13:20] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:13:21] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:13:21] [Info] Disconnect pubsub.codeforces.com:443
+[2019-08-13 19:13:21] [Info] Connect pubsub.codeforces.com:443
+[2019-08-13 19:13:21] [Info] Connect clients1.google.com:443
+[2019-08-13 19:13:24] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:13:24] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 19:13:24] [Info] Disconnect assets.codeforces.com:443
+[2019-08-13 19:13:24] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:13:24] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:13:24] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:13:24] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:13:25] [Info] Connect codeforces.com:443
+[2019-08-13 19:13:26] [Info] Connect codeforces.com:443
+[2019-08-13 19:13:26] [Info] Connect codeforces.com:443
+[2019-08-13 19:13:27] [Info] Connect codeforces.com:443
+[2019-08-13 19:13:29] [Info] Connect assets.codeforces.com:443
+[2019-08-13 19:13:29] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 19:13:29] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:13:29] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:13:29] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:13:29] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:13:29] [Info] Connect connect.facebook.net:443
+[2019-08-13 19:13:29] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:13:29] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:13:29] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:13:29] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:13:29] [Info] Connect codeforces.com:443
+[2019-08-13 19:13:29] [Info] Connect codeforces.com:443
+[2019-08-13 19:13:31] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:13:31] [Info] Disconnect pubsub.codeforces.com:443
+[2019-08-13 19:13:31] [Info] Connect pubsub.codeforces.com:443
+[2019-08-13 19:13:31] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:13:31] [Info] Connect www.facebook.com:443
+[2019-08-13 19:13:34] [Info] Disconnect assets.codeforces.com:443
+[2019-08-13 19:13:34] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:13:34] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:13:34] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:13:34] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 19:13:34] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:13:34] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:13:34] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:13:36] [Info] Connect codeforces.com:443
+[2019-08-13 19:13:39] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:14:01] [Info] Connect codeforces.com:443
+[2019-08-13 19:14:01] [Info] Connect codeforces.com:443
+[2019-08-13 19:14:01] [Info] Connect assets.codeforces.com:443
+[2019-08-13 19:14:01] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 19:14:01] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:14:01] [Info] Connect connect.facebook.net:443
+[2019-08-13 19:14:02] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:14:02] [Info] Connect www.facebook.com:443
+[2019-08-13 19:14:02] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:02] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:14:04] [Info] Disconnect assets.codeforces.com:443
+[2019-08-13 19:14:04] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:14:04] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:14:04] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:14:04] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:14:04] [Info] Disconnect pubsub.codeforces.com:443
+[2019-08-13 19:14:05] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:05] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:06] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:06] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:07] [Info] Connect pubsub.codeforces.com:443
+[2019-08-13 19:14:07] [Info] Connect clients1.google.com:443
+[2019-08-13 19:14:07] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:14:08] [Info] Connect www.facebook.com:443
+[2019-08-13 19:14:08] [Info] Connect assets.codeforces.com:443
+[2019-08-13 19:14:08] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 19:14:08] [Info] Connect codeforces.com:443
+[2019-08-13 19:14:08] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:14:08] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:14:09] [Info] Disconnect pubsub.codeforces.com:443
+[2019-08-13 19:14:09] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:14:09] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 19:14:09] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:09] [Info] Connect codeforces.com:443
+[2019-08-13 19:14:09] [Info] Connect codeforces.com:443
+[2019-08-13 19:14:09] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:14:09] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:14:09] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:09] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:14:09] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:09] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:10] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:10] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:10] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:10] [Info] Connect www.facebook.com:443
+[2019-08-13 19:14:10] [Info] Connect pubsub.codeforces.com:443
+[2019-08-13 19:14:10] [Info] Connect codeforces.com:443
+[2019-08-13 19:14:11] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:11] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:11] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:11] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:11] [Info] Connect codeforces.com:443
+[2019-08-13 19:14:11] [Info] Connect codeforces.com:443
+[2019-08-13 19:14:11] [Info] Connect clients1.google.com:443
+[2019-08-13 19:14:11] [Info] Connect www.facebook.com:443
+[2019-08-13 19:14:12] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:12] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:14:14] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 19:14:14] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:14:14] [Info] Connect connect.facebook.net:443
+[2019-08-13 19:14:14] [Info] Disconnect assets.codeforces.com:443
+[2019-08-13 19:14:14] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:14:14] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:14:14] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:14:14] [Info] Connect codeforces.com:443
+[2019-08-13 19:14:14] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:14:14] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:14:14] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:14] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:14:14] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:14:14] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:14] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:14:14] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:14:14] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:14:14] [Info] Disconnect pubsub.codeforces.com:443
+[2019-08-13 19:14:14] [Info] Connect codeforces.com:443
+[2019-08-13 19:14:15] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:14:15] [Info] Connect www.facebook.com:443
+[2019-08-13 19:14:15] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:15] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:15] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:15] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:14:15] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:14:16] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:14:16] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:16] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:14:16] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:14:17] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:17] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:17] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:17] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:14:17] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:14:17] [Info] Connect pubsub.codeforces.com:443
+[2019-08-13 19:14:17] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:14:17] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:14:17] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:14:17] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:17] [Info] Connect codeforces.com:443
+[2019-08-13 19:14:17] [Info] Connect clients1.google.com:443
+[2019-08-13 19:14:17] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:17] [Info] Connect www.facebook.com:443
+[2019-08-13 19:14:18] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:14:18] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:19] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:14:19] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:14:19] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 19:14:19] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:14:19] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:14:19] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:14:19] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:14:19] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:19] [Info] Connect codeforces.com:443
+[2019-08-13 19:14:19] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:20] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:23] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:24] [Info] Disconnect clients1.google.com:443
+[2019-08-13 19:14:24] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:14:24] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:30] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:31] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:34] [Info] Connect codeforces.com:443
+[2019-08-13 19:14:34] [Info] Connect codeforces.com:443
+[2019-08-13 19:14:34] [Info] Connect www.facebook.com:443
+[2019-08-13 19:14:34] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:34] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:34] [Info] Connect assets.codeforces.com:443
+[2019-08-13 19:14:34] [Info] Direct connect fonts.googleapis.com:443
+[2019-08-13 19:14:34] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:14:34] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:14:34] [Info] Connect userpic.codeforces.com:443
+[2019-08-13 19:14:34] [Info] Connect connect.facebook.net:443
+[2019-08-13 19:14:36] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:14:36] [Info] Disconnect pubsub.codeforces.com:443
+[2019-08-13 19:14:36] [Info] Connect pubsub.codeforces.com:443
+[2019-08-13 19:14:39] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:39] [Info] Disconnect assets.codeforces.com:443
+[2019-08-13 19:14:39] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:14:39] [Info] Disconnect connect.facebook.net:443
+[2019-08-13 19:14:39] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:14:39] [Info] Disconnect userpic.codeforces.com:443
+[2019-08-13 19:14:40] [Info] Direct connect fonts.gstatic.com:443
+[2019-08-13 19:14:40] [Info] Disconnect pubsub.codeforces.com:443
+[2019-08-13 19:14:40] [Info] Direct connect ssl.google-analytics.com:443
+[2019-08-13 19:14:40] [Info] Connect pubsub.codeforces.com:443
+[2019-08-13 19:14:40] [Info] Connect www.facebook.com:443
+[2019-08-13 19:14:44] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:14:44] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:44] [Info] Disconnect www.facebook.com:443
+[2019-08-13 19:14:55] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:56] [Info] Connect sta.codeforces.com:443
+[2019-08-13 19:14:56] [Info] Connect codeforces.com:443
+[2019-08-13 19:14:57] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:14:58] [Info] Connect codeforces.com:443
+[2019-08-13 19:14:59] [Info] Disconnect sta.codeforces.com:443
+[2019-08-13 19:15:04] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:15:04] [Info] Disconnect codeforces.com:443
+[2019-08-13 19:15:19] [Info] Connect codeforc.es:443
+[2019-08-13 19:15:19] [Info] Connect codeforc.es:443
+[2019-08-13 19:15:21] [Info] Disconnect pubsub.codeforces.com:443
+[2019-08-13 19:15:24] [Info] Disconnect codeforc.es:443
+[2019-08-13 19:15:24] [Info] Disconnect codeforc.es:443
