@@ -4,49 +4,54 @@ const int maxn = 1e6+5;
 char ans[maxn],ch[maxn];
 signed main()
 {
-	int n;
-	scanf("%d",&n);
-	cin>>(ans+1);
-	int alen=strlen(ans+1);
-	for(int i=2;i<=n;i++)
-	{
-		cin>>(ch+1);
-		int len=strlen(ch+1);
-		int cha=0;
-		printf("%d\n",alen);
-		for(int j=alen-len;j<=alen;j++)
-		{
-			if(ans[j+1]==ch[1])
-			{
-				int lim=alen-j,limm=len-alen+j;
-				int flg=0;
-				for(int k=1;k<=lim;k++)
-				{
-					if(ch[k]!=ans[j+k])
-					{
-						flg=1;
-						break;
-					}
-				}
-				if(!flg)
-				{
-					for(int k=limm;k<=len;k++)
-						ans[k+j]=ch[k];
-					alen+=len-limm;
-					cha=1;
-					break;
-				}
-			}
-		}
-		if(!cha)
-		{
-			for(int j=1;j<=len;j++)
-			{
-				ans[j+alen]=ch[j];
-			}
-			alen+=len;
-		}
-	}
-	printf("%s",ans+1);
-	return 0;
+    int n;
+    scanf("%d",&n);
+    int alen=strlen(ans+1);
+    for(int ti=1;ti<=n;ti++)
+    {
+        cin>>(ch+1);
+        int len=strlen(ch+1);
+        if(!alen)
+        {
+            for(int i=1;i<=len;i++)
+                ans[i]=ch[i];
+            alen=len;
+            continue;
+        }
+        int ap=max(1,alen-len+1),cp=1,fin=0;
+        for(int i=0;i<min(len,alen);i++,ap++)
+        {
+            if(ans[ap]!=ch[cp])
+                continue;
+            int flg=1;
+            for(int j=0;j<min(len-i,alen-i);j++)
+            {
+                if(ans[ap+j]!=ch[cp+j])
+                {
+                    flg=0;
+                    break;
+                }
+            }
+            if(flg)
+            {
+                for(int j=1;j<len;j++)
+                    ans[ap+j]=ch[cp+j];
+                fin=1;
+                alen=max(alen+i,len);
+                break;
+            }
+        }
+        if(!fin)
+        {
+            ap=alen;
+            for(int i=1;i<=len;i++)
+                ans[ap+i]=ch[i];
+            alen+=len;
+        }
+//        printf("%d\n",alen);
+//        cout<<ans+1<<endl;
+//        for(int i=1;i<=len;i++)
+//        	ch[i]='\0';
+    }
+    cout<<ans+1<<endl;
 }
