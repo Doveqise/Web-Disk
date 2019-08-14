@@ -40452,3 +40452,35 @@
 [2019-08-13 19:15:21] [Info] Disconnect pubsub.codeforces.com:443
 [2019-08-13 19:15:24] [Info] Disconnect codeforc.es:443
 [2019-08-13 19:15:24] [Info] Disconnect codeforc.es:443
+[2019-08-13 21:21:18] ShadowsocksR started on port 1080
+[2019-08-13 21:21:32] [Info] Connect raw.githubusercontent.com:443
+[2019-08-13 21:21:35] [Info] Connect raw.githubusercontent.com:443
+[2019-08-13 21:21:40] [Error] connect to update server error
+[2019-08-13 21:23:20] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-13 21:26:28] [Info] Connect raw.githubusercontent.com:443
+[2019-08-13 21:26:31] [Error] connect to update server error
+[2019-08-13 21:28:11] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-13 21:29:52] [Info] Direct connect www.luogu.org:443
+[2019-08-13 21:29:52] [Info] Direct connect cdn.luogu.org:443
+[2019-08-13 21:29:52] [Info] Direct connect cn.bing.com:443
+[2019-08-13 21:29:53] [Info] Connect uploadbeta.com:443
+[2019-08-13 21:29:55] [Info] Direct connect ipcounter.ihcr.top:443
+[2019-08-13 21:29:55] [Info] Direct connect api.ixiaowai.cn:443
+[2019-08-13 21:29:57] [Debug] DNS query fail: api.cinema000.xyz
+[2019-08-13 21:29:57] [Info] Connect api.cinema000.xyz:443
+[2019-08-13 21:29:58] [Info] Direct connect img.xjh.me:80
+[2019-08-13 21:29:58] [Info] Direct connect img.xjh.me:80
+[2019-08-13 21:29:58] [Info] Direct connect img.xjh.me:80
+[2019-08-13 21:29:58] [Info] Direct connect api.dujin.org:443
+[2019-08-13 21:29:58] [Info] Direct connect acg.bakayun.cn:80
+[2019-08-13 21:29:58] [Info] Direct connect random.52ecy.cn:443
+[2019-08-13 21:29:58] [Info] Direct connect open.saintic.com:443
+[2019-08-13 21:29:58] [Info] Direct connect tva2.sinaimg.cn:443
+[2019-08-13 21:29:58] [Info] Direct connect img.https.badapple.top:443
+[2019-08-13 21:29:58] [Info] Direct connect img.xjh.me:80
+[2019-08-13 21:29:58] [Info] Direct connect img.xjh.me:80
+[2019-08-13 21:29:58] [Info] Direct connect img.xjh.me:80
+[2019-08-13 21:29:58] [Info] Direct connect ws1.sinaimg.cn:443
+[2019-08-13 21:29:58] [Info] Disconnect api.cinema000.xyz:443
+[2019-08-13 21:30:01] [Info] Disconnect uploadbeta.com:443
+[2019-08-13 21:32:37] [Info] Direct connect clientservices.googleapis.com:443
